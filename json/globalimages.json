@@ -1,0 +1,15 @@
+[ { "category" : "Symbol",
+	"images" : [
+				{ "id" : 1, "name" : "Circle Inner Arrow Right", "path" : "../images/symbols/circleInnerArrowRight.png" },
+				{ "id" : 2, "name" : "Large Wide Single Arrow Right", "path" : "../images/symbols/lrgWideSingleArrowRight.png" },
+				{ "id" : 3, "name" : "Rounded Double Arrow Right", "path" : "../images/symbols/roundedDlbArrowRight.png" },
+				{ "id" : 4, "name" : "Standard Arrow Right", "path" : "../images/symbols/stdArrowRight.png" },
+				{ "id" : 5, "name" : "Standard Double Arrow Right", "path" : "../images/symbols/stdDlbArrowRight.png" },
+				{ "id" : 5, "name" : "Standard Single Arrow Right", "path" : "../images/symbols/stdSingleArrowRight.png" },
+				{ "id" : 5, "name" : "Thick Double Arrow Right", "path" : "../images/symbols/thickDlbArrowRight.png" },
+				{ "id" : 5, "name" : "Thin Double Arrow Right", "path" : "../images/symbols/thinDlbArrowRight.png" },
+				{ "id" : 5, "name" : "Wide Single Arrow Right", "path" : "../images/symbols/wideSingleArrowRight.png" }
+			]	
+	
+  }
+]

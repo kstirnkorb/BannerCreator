@@ -1,0 +1,748 @@
+/* Styles for the New Ad section. */
+.newAdMasthead {
+	position:fixed;
+	top:14px;
+	width:100%;
+	text-align:center;
+	font-size:1.30em;
+	font-weight:bold;
+	color:#CCCCCC;
+	min-width:1244px;
+	-webkit-user-select:none;  
+	-moz-user-select:none;    
+	-ms-user-select:none;      
+	user-select:none;
+}
+.newAdLogo {
+	background-image:url(../images/logoGepetto.png);
+	width:105px;
+	height:40px;
+	margin-right:10px;
+	position:absolute;
+	right:0;
+	top:-14px;
+}
+.newAdSideSectionContainer {
+	background-color:#363636;
+	width:22%;
+	margin-top:42px;
+	float:left;
+	overflow:-x:hidden;
+	overflow:-moz-scrollbars-vertical; 
+	overflow-y:scroll;
+	-webkit-user-select:none;  
+	-moz-user-select:none;    
+	-ms-user-select:none;      
+	user-select:none;
+}
+.newAdSideSection {
+	width:100%;
+	min-width:280px;
+	clear:both;
+}
+.newAdSideSection .containerPadding {
+	padding:10px;
+}
+.newAdSideSection .subHeader {
+	width:100%;
+	height:24px;
+	background:url('../images/subHeaderBG.gif') 0px 0px;
+	background-repeat:repeat-x;
+	cursor:pointer;
+}
+.newAdSideSection .subHeaderCopy {
+	color:#CCCCCC;
+	font-size:0.85em;
+	padding-left:4px;
+	padding-top:2px;
+}
+.newAdSideSection .disableOverlayScreen { 
+    position:relative;
+    width:100%;
+    height:100%;
+    background-color:black;
+    opacity:.5; 
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; /* IE transparency */
+    filter:alpha(opacity=50); /* More IE transparency */
+    z-index:99999;
+}
+.subSectionTopSpacer {
+	height:15px;
+}
+.subSectionBottomSpacer {
+	height:20px;
+	clear:both;
+}
+.adSizeSelectBox {
+	width:85px;
+	float:left;
+}
+.selectionDisable {
+	-webkit-user-select:none;  
+	-moz-user-select:none;    
+	-ms-user-select:none;      
+	user-select:none;
+}
+.inputContainer {
+	margin-right:10px;
+	float:left;
+}
+.inputContainer.extraRightMargin {
+	margin-right:16px;
+}
+.inputContainer .topLabel {
+	color:#CCCCCC;
+	font-size:0.75em;
+	margin-bottom:-2px;
+}
+.inputContainer .topIcon {
+	width:20px;
+	height:14px;
+	margin-bottom:2px;
+}
+.inputContainer .letterSpacing {
+	background:url('../images/assetEditLetterSpacing.png');
+	background-repeat:no-repeat;
+}
+.inputContainer .lineHeight {
+	background:url('../images/assetEditLineHeight.png');
+	background-repeat:no-repeat;
+}
+.inputContainer .indent {
+	background:url('../images/assetEditIndent.png');
+	background-repeat:no-repeat;
+}
+.inputContainer .adColorPicker {
+	width:144px;
+	float:left;
+}
+.inputContainer .adColorTypeBtn {
+	width:52px;
+	height:16px;
+	background:url('../images/btnColorType.png') 0px 0px;
+	background-repeat:no-repeat;
+	margin-top:6px;
+	margin-left:8px;
+	cursor:pointer;
+	float:right;
+}
+.inputContainer .colorPicker {
+	width:152px;
+	float:left;
+}
+.inputContainer .colorTypeBtn {
+	width:52px;
+	height:16px;
+	background:url('../images/btnColorType.png') 0px 0px;
+	background-repeat:no-repeat;
+	margin-top:6px;
+	margin-left:8px;
+	cursor:pointer;
+	float:right;
+}
+.inputContainer.marginLeft15 {
+	margin-left:15px;
+	clear:both;
+}
+.inputContainerLowerLeft {
+	position:relative;
+	top:-140px;
+	left:14px;
+	float:left;
+	width:400px;
+}
+.adSizeWidthInput {
+	width:30px;
+	height:18px;
+	float:left;
+}
+.adSizeHeightInput {
+	width:35px;
+	height:18px;
+	float:left;
+}
+.inputFieldRightSideLabel {
+	margin-top:8px;
+	margin-left:2px;
+	float:left;
+	color:#CCCCCC;
+	font-size:0.75em;
+}
+.adPaletteContainer {
+	background-color:#4D4D4D;
+	width:78%;
+	margin-top:42px;
+	float:left;
+	overflow:hidden;
+	-webkit-user-select:none;  
+	-moz-user-select:none;    
+	-ms-user-select:none;      
+	user-select:none;
+}
+.adPaletteContainer .topHorizontalRule {
+	background-color:#3C3C3C;
+	height:20px;
+	width:100%; 
+	-moz-box-shadow:3px 3px 4px #232323;
+	-webkit-box-shadow:3px 3px 4px #232323;
+	box-shadow:3px 3px 4px #232323;
+	position:fixed;
+	z-index:200;
+	overflow:hidden;
+}
+.topHorizontalRule .primaryTick {
+	width:20px;
+	height:20px;
+	border-right:1px solid #626262;
+	float:left;
+}
+.topHorizontalRule .stdTick {
+	width:9px;
+	height:6px;
+	margin-top:14px;
+	border-right:1px solid #626262;
+	float:left;
+}
+.topHorizontalRule .keyTick {
+	width:9px;
+	height:15px;
+	margin-top:5px;
+	border-right:1px solid #626262;
+	float:left;
+}
+.topHorizontalRule .topRuleLabel {
+	font-size:0.75em;
+	color:#7D7D7D;
+	z-index:200;
+	margin-left:12px;
+	line-height:4px;
+}
+.adPaletteContainer .leftVerticalRule {
+	background-color:#3C3C3C;
+	height:100%;
+	width:20px;
+	-moz-box-shadow:3px 3px 4px #232323;
+	-webkit-box-shadow:3px 3px 4px #232323;
+	box-shadow:3px 3px 4px #232323;
+	position:fixed;
+	top:62px;
+	z-index:200;
+	overflow:hidden;
+}
+.leftVerticalRule .primaryTick {
+	width:20px;
+	border-bottom:1px solid #626262;
+}
+.leftVerticalRule .stdTick {
+	width:6px;
+	height:9px;
+	margin-left:14px;
+	border-bottom:1px solid #626262;
+}
+.leftVerticalRule .keyTick {
+	width:15px;
+	height:9px;
+	margin-left:5px;
+	border-bottom:1px solid #626262;
+}
+.leftVerticalRule .leftRuleLabel {
+	font-size:0.75em;
+	color:#7D7D7D;
+	z-index:200;
+	margin-right:10px;
+	line-height:4px;
+	transform:rotate(270deg);
+	-ms-transform:rotate(270deg);
+	-webkit-transform:rotate(270deg);
+}
+.containerClear {
+	float:left;
+	clear:both;
+	width:10px;
+	height:10px;
+}
+.newAdElementContainer {
+	width:100%;
+	height:100%;
+	overflow-x:scroll;
+	overflow-y:scroll;
+}
+.newAdElement {
+	background-color:#999999;
+	top:50px;
+	left:50px;
+	position:relative;
+	transition:all 0.50s;
+	-webkit-transition:all 0.50s;
+	opacity:0.0;
+	filter:alpha(opacity=0);
+	z-index:1;
+}
+.newAdBtn {
+	width:25px;
+	height:25px;
+	float:left;
+}
+.newAdBtn.glow {
+	-moz-box-shadow:0 0 5px #FFFFFF;
+	-webkit-box-shadow:0 0 5px #FFFFFF;
+	box-shadow:0px 0px 5px #FFFFFF;	
+	-moz-border-radius:3px; 
+	-webkit-border-radius:3px;
+	border-radius:3px;  
+}
+.newAdBtn.add {
+	background-image:url(../images/btnAdd.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtn.alignLeft {
+	background-image:url(../images/alignLeftButton.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtn.alignRight {
+	background-image:url(../images/alignRightButton.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtn.alignTop {
+	background-image:url(../images/alignTopButton.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtn.alignBottom {
+	background-image:url(../images/alignBottomButton.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtn.alignHorizontal {
+	background-image:url(../images/alignHorizontalButton.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtn.alignVertical {
+	background-image:url(../images/alignVerticalButton.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.newAdBtnSpacer {
+	width:10px;
+	height:25px;
+	float:left;
+}
+.inputRowButtonContainer {
+	padding-top:16px;
+	margin-right:10px;
+	float:left;
+}
+.inputContainer {
+	margin-right:10px;
+	float:left;
+}
+.companySelectBox {
+	width:260px;
+	float:left;
+	margin-bottom:10px;
+}
+.adNameInputField {
+	width:250px;
+	float:left;
+}
+.assetContainer {
+	margin-left:10px;
+	margin-right:20px;
+	margin-bottom:10px;
+	float:left;
+	text-align:center;
+}
+.assetContainer .bottomLabel {
+	color:#CCCCCC;
+	font-size:0.75em;
+	margin-bottom:-2px;
+}
+.newAdAsset {
+	width:60px;
+	height:45px;
+	cursor:pointer;
+}
+.newAdAsset.button {
+	background-image:url(../images/assetButton.png);
+	background-position:1px 10px;
+	background-repeat:no-repeat;
+	background-size:60px 25px;
+}
+.newAdAsset.carouselImage {
+	background-image:url(../images/assetCarousel.png);
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+	background-size:60px 40px;
+}
+.newAdAsset.gallery {
+	background-image:url(../images/assetGallery.png);
+	background-position:10px 4px;
+	background-repeat:no-repeat;
+	background-size:45px 40px;
+}
+.newAdAsset.image {
+	background-image:url(../images/assetImage.png);
+	background-position:8px 4px;
+	background-repeat:no-repeat;
+	background-size:45px 40px;
+}
+.newAdAsset.logoImage {
+	background-image:url(../images/assetLogo.png);
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+	background-size:60px 45px;
+}
+.newAdAsset.symbol {
+	background-image:url(../images/assetSymbol.png);
+	background-position:20px 12px;
+	background-repeat:no-repeat;
+	background-size:20px 20px;
+}
+.newAdAsset.text {
+	background-image:url(../images/assetText.png);
+	background-position:1px 8px;
+	background-repeat:no-repeat;
+	background-size:60px 28px;
+}
+.newAdAsset.video {
+	background-image:url(../images/assetVideo.png);
+	background-position:15px 0px;
+	background-repeat:no-repeat;
+	background-size:30px 44px;
+}
+.svgPlaceholder {
+	width:50px;
+	height:50px;
+	border:1px solid #CCCCCC;
+	position:absolute;
+	text-overflow:clip;
+	overflow:hidden;
+}
+.btnColorType {
+	width:52;
+	height:16px;
+	background-repeat:no-repeat;
+}
+.btnColorType.rgba {
+	background:url('../images/btnColorType.png') 0px 0px;
+	background-repeat:no-repeat;
+}
+.btnColorType.hex {
+	background:url('../images/btnColorType.png') 0px -16px;
+	background-repeat:no-repeat;
+}
+.btnColorType.hsv {
+	background:url('../images/btnColorType.png') 0px -32px;
+	background-repeat:no-repeat;
+}
+.contextPalette {
+	width:586px;
+	height:350px;
+	position:absolute;
+	z-index:500;
+	display:none;
+}
+.contextPalette .dragPad {
+	background:url('../images/dragPadBG.png');
+	background-repeat:repeat-x;
+	width:582px;
+	height:11px;
+	cursor:pointer;
+	margin-left:20px;
+	margin-top:-18px;
+}
+.contextPalette .bottom {
+	margin-top:30px;
+	width:586px;
+	height:320px;
+	background-color:#3E3E3E;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	padding:20px 10px 10px 20px;
+	-moz-box-shadow:3px 3px 4px #222222;
+	-webkit-box-shadow:3px 3px 4px #222222;
+	box-shadow:3px 3px 4px #222222;
+}
+.contextPalette .bottomContent {
+	display:none;
+}
+.contextPalette .tab {
+	width:70px;
+	height:24px;
+	background:url('../images/contextPaletteTab.png') 0px -30px;
+	background-repeat:no-repeat;
+	margin-right:2px;
+	float:left;
+	color:#CCCCCC;
+	font-size:0.85em;
+	padding-top:6px;
+	text-align:center;
+	cursor:pointer;
+}
+.contextPalette .tabActive {
+	width:70px;
+	height:24px;
+	background:url('../images/contextPaletteTab.png') 0px 0px;
+	background-repeat:no-repeat;
+	margin-right:2px;
+	float:left;
+	color:#CCCCCC;
+	font-size:0.85em;
+	padding-top:6px;
+	text-align:center;
+	cursor:pointer;
+}
+.contextPalette .sizeLink {
+	width:14px;
+	height:58px;
+	background:url('../images/sizeLink.png') 0px 0px;
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.contextPalette .sizeLinkActive {
+	width:14px;
+	height:58px;
+	background:url('../images/sizeLink.png') -14px 0px;
+	background-repeat:no-repeat;
+}
+.fontSelectBox {
+	width:265px;
+	float:left;
+	margin-bottom:10px;
+}
+.imageSelectBox {
+	width:430px;
+	float:left;
+	margin-bottom:10px;
+}
+.alignmentSelectBox {
+	width:164px;
+	float:left;
+	margin-bottom:10px;
+	margin-right:-10px;
+}
+.adAssetSmallInput {
+	width:30px;
+	height:18px;
+	float:left;
+}
+.adAssetTextArea {
+	width:550px;
+	resize:none;
+}
+.iconTrash {
+	width:20px;
+	height:26px;
+	background:url('../images/iconTrash.png');
+	background-repeat:no-repeat;
+	float:left;
+	margin-top:16px;
+	margin-right:10px;
+	cursor:pointer;
+}
+.closeButtonContainer {
+	position:absolute;
+	right:-26px;
+	top:36px;
+}
+.closeBtn {
+	width:25px;
+	height:25px;
+	background:url('../images/btnClose.png') 0px 0px;
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.assignmentSelectBox {
+	width:200px;
+	float:left;
+	margin-bottom:10px;
+}
+.editRndBtn {
+	width:30px;
+	height:30px;
+	float:left;
+	cursor:pointer;
+	margin-top:15px;
+	margin-left:10px;
+}
+.editRndBtn.moveUp {
+	background:url('../images/btnRndTopMoveUp.png') 0 0px;
+	background-repeat:no-repeat;
+}
+.editRndBtn.moveRight {
+	background:url('../images/btnRndTopMoveRight.png') 0 0px;
+	background-repeat:no-repeat;
+}
+.editRndBtn.moveDown {
+	background:url('../images/btnRndTopMoveDown.png') 0 0px;
+	background-repeat:no-repeat;
+}
+.editRndBtn.moveLeft {
+	background:url('../images/btnRndTopMoveLeft.png') 0 0px;
+	background-repeat:no-repeat;
+}
+.editRndBtn.moveAll {
+	background:url('../images/btnRndTopMove.png') 0 0px;
+	background-repeat:no-repeat;
+}
+.editRndBtn.glow {
+	-moz-box-shadow:0 0 5px #FFFFFF;
+	-webkit-box-shadow:0 0 5px #FFFFFF;
+	box-shadow:0px 0px 5px #FFFFFF;	
+	-moz-border-radius:15px; 
+	-webkit-border-radius:15px;
+	border-radius:15px;  
+}
+/* Used to hide the boundary border during resizing an ad asset. */
+.ui-resizable-ghost {
+	opacity:0 !important;
+}
+.imageAssetThumbContainer {
+	width:325px;
+	height:200px;
+	float:right;
+	margin-right:16px;
+	background-color:#CCCCCC;
+}
+.imageAssetThumb {
+	min-width:100%;
+	min-height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.imageScaleBtn {
+	width:52px;
+	height:16px;
+	background:url('../images/btnThumbScale.png') 0px 0px;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	margin-left:140px;
+	margin-top:5px;
+}
+
+/* Overlay styles. */
+#newAdOverlay { 
+    position:fixed;
+    width:100%;
+    height:100%;
+    background-color:black;
+    opacity:.5; 
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; /* IE transparency */
+    filter:alpha(opacity=50); /* More IE transparency */
+    z-index:100000;
+	display:none;
+}
+.btnModalClose {
+	background:url('../images/btnModalClose.png') 0 0px;
+	width:35px;
+	height:35px;
+	cursor:pointer;
+	background-repeat:no-repeat;
+	z-index:100002;
+	display:none;
+	position:absolute;
+}
+#overlayMessage {
+	background-color:#656565;
+	border-radius:10px;
+	width:440px;
+	height:240px;
+	z-index:100001;
+	margin:0 auto;
+	left:50%;
+	top:50%;
+	display:none;
+	position:absolute;
+	padding-left:30px;
+	padding-top:30px;
+}
+#overlayMessage .header {
+	height:26px;
+	background-color:#434343;
+	font-size:1.25em;
+	font-weight:bold;
+	color:#CCCCCC;
+	padding-left:8px;
+	padding-top:6px; 
+	margin-bottom:8px;
+}
+#overlayMessage .messageButtonContainer {
+	padding-left:100px;
+	top:200px;
+	position:absolute;
+}
+#overlayMessage .userMessageCopy {
+	font-size:1.20em;
+	line-height:1.25em;
+	padding:10px;
+	color:#CCCCCC;
+}
+.layerDetailRow {
+	background-color:#464646;
+	height:22px;
+	width:98%;
+	clear:both;
+}
+.layerInput {
+	height:12px;
+	float:right;
+	text-align:center;
+}
+.layerAsset {
+	width:30px;
+	height:20px;
+	cursor:pointer;
+	float:left;
+}
+.layerAsset.button {
+	background-image:url(../images/assetButton.png);
+	background-position:2px 3px;
+	background-repeat:no-repeat;
+	background-size:28px 15px;
+}
+.layerAsset.carouselImage {
+	background-image:url(../images/assetCarousel.png);
+	background-position:3px 2px;
+	background-repeat:no-repeat;
+	background-size:26px 18px;
+}
+.layerAsset.gallery {
+	background-image:url(../images/assetGallery.png);
+	background-position:3px 2px;
+	background-repeat:no-repeat;
+	background-size:26px 18px;
+}
+.layerAsset.image {
+	background-image:url(../images/assetImage.png);
+	background-position:3px 2px;
+	background-repeat:no-repeat;
+	background-size:26px 18px;
+}
+.layerAsset.logoImage {
+	background-image:url(../images/assetLogo.png);
+	background-position:3px 0px;
+	background-repeat:no-repeat;
+	background-size:26px 22px;
+}
+.layerAsset.symbol {
+	background-image:url(../images/assetSymbol.png);
+	background-position:11px 6px;
+	background-repeat:no-repeat;
+	background-size:10px 10px;
+}
+.layerAsset.text {
+	background-image:url(../images/assetText.png);
+	background-position:2px 3px;
+	background-repeat:no-repeat;
+	background-size:28px 16px;
+}
+.layerAsset.video {
+	background-image:url(../images/assetVideo.png);
+	background-position:10px 2px;
+	background-repeat:no-repeat;
+	background-size:12px 20px;
+}

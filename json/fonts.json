@@ -1,0 +1,53 @@
+[ { "value" : "fontVerdana",
+    "name" : "Verdana, Geneva, sans-serif",
+    "id" : 1
+  },
+  { "value" : "fontGeorgia",
+    "name" : "Georgia, \"Times New Roman\", Times, serif",
+    "id" : 2
+  },
+  { "value" : "fontCourierNew",
+    "name" : "\"Courier New\", Courier, monospace",
+    "id" : 3
+  },
+  { "value" : "fontArial",
+    "name" : "Arial, Helvetica, sans-serif",
+    "id" : 4
+  },
+  { "value" : "fontTahoma",
+    "name" : "Tahoma, Geneva, sans-serif",
+    "id" : 5
+  },
+  { "value" : "fontTrebuchetMS",
+    "name" : "\"Trebuchet MS\", Arial, Helvetica, sans-serif",
+    "id" : 6
+  },
+  { "value" : "fontArialBlack",
+    "name" : "\"Arial Black\", Gadget, sans-serif",
+    "id" : 7
+  },
+  { "value" : "fontTimesNewRoman",
+    "name" : "\"Times New Roman\", Times, serif",
+    "id" : 8
+  },
+  { "value" : "fontPalatinoLinotype",
+    "name" : "\"Palatino Linotype\", \"Book Antiqua\", Palatino, serif",
+    "id" : 9
+  },
+  { "value" : "fontLucidaSansUnicode",
+    "name" : "\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif",
+    "id" : 10
+  },
+  { "value" : "fontMSSerif",
+    "name" : "\"MS Serif\", \"New York\", serif",
+    "id" : 11
+  },
+  { "value" : "fontLucidaConsole",
+    "name" : "\"Lucida Console\", Monaco, monospace",
+    "id" : 12
+  },
+  { "value" : "fontComicSansMS",
+    "name" : "\"Comic Sans MS\", cursive",
+    "id" : 13
+  }
+]

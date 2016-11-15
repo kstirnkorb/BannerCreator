@@ -1,0 +1,2343 @@
+[ { "value" : -1,
+    "name" : "-All Companies",
+    "id" : -1
+  },
+  { "value" : -2,
+    "name" : "-Primary Companies",
+    "id" : -2
+  },
+  { "value" : -3,
+    "name" : "-Primary & Backup Companies",
+    "id" : -3
+  },
+  { "value" : -4,
+    "name" : "-Backup Companies",
+    "id" : -4
+  },      
+  { "value" : "2342",
+    "name" : "123Inkjets",
+    "company_system_name" : "one_23inkjets",
+    "tier" : "3"
+  },
+  { "value" : "2442",
+    "name" : "123Print",
+    "company_system_name" : "one_23print",
+    "tier" : "3"
+  },
+  { "value" : "2467",
+    "name" : "1ShoppingCart",
+    "company_system_name" : "one_shoppingcart",
+    "tier" : "2"
+  },
+  { "value" : "2367",
+    "name" : "4imprint",
+    "company_system_name" : "four_imprint",
+    "tier" : "2"
+  },
+  { "value" : "2014",
+    "name" : "800-Flowers",
+    "company_system_name" : "eight_hundred_flowers",
+    "tier" : "0"
+  },
+  { "value" : "2198",
+    "name" : "A and E Shop",
+    "company_system_name" : "ae_shop",
+    "tier" : "4"
+  },
+  { "value" : "2069",
+    "name" : "AHS",
+    "company_system_name" : "ahs",
+    "tier" : "3"
+  },
+  { "value" : "2113",
+    "name" : "AIG Auto",
+    "company_system_name" : "aig_auto",
+    "tier" : "3"
+  },
+  { "value" : "2492",
+    "name" : "AW Direct",
+    "company_system_name" : "aw_direct",
+    "tier" : "2"
+  },
+  { "value" : "2300",
+    "name" : "Accenture",
+    "company_system_name" : "accenture",
+    "tier" : "4"
+  },
+  { "value" : "2463",
+    "name" : "Acklands Grainger",
+    "company_system_name" : "acklands_grainger",
+    "tier" : "2"
+  },
+  { "value" : "2525",
+    "name" : "AirSplat",
+    "company_system_name" : "airsplat",
+    "tier" : "0"
+  },
+  { "value" : "2214",
+    "name" : "Airport Parking Reservations",
+    "company_system_name" : "airport_parking_reservations",
+    "tier" : "4"
+  },
+  { "value" : "2512",
+    "name" : "All Modern",
+    "company_system_name" : "all_modern",
+    "tier" : "0"
+  },
+  { "value" : "2228",
+    "name" : "Alle Jewelry",
+    "company_system_name" : "alle_jewelry",
+    "tier" : "4"
+  },
+  { "value" : "2187",
+    "name" : "Ally Bank",
+    "company_system_name" : "gmac_bank",
+    "tier" : "2"
+  },
+  { "value" : "2061",
+    "name" : "Altrec",
+    "company_system_name" : "altrec",
+    "tier" : "2"
+  },
+  { "value" : "2327",
+    "name" : "Amazon Warehouse Deals",
+    "company_system_name" : "amazon_warehouse_deals",
+    "tier" : "0"
+  },
+  { "value" : "2394",
+    "name" : "Amber Alert",
+    "company_system_name" : "amber_alert",
+    "tier" : "3"
+  },
+  { "value" : "2156",
+    "name" : "AmeriMark",
+    "company_system_name" : "amerimark",
+    "tier" : "0"
+  },
+  { "value" : "2090",
+    "name" : "American Eagle",
+    "company_system_name" : "american_eagle",
+    "tier" : "0"
+  },
+  { "value" : "2022",
+    "name" : "American Express",
+    "company_system_name" : "amex",
+    "tier" : "0"
+  },
+  { "value" : "2289",
+    "name" : "Amsterdam",
+    "company_system_name" : "amsterdam",
+    "tier" : "3"
+  },
+  { "value" : "2411",
+    "name" : "Ann Taylor",
+    "company_system_name" : "ann_taylor",
+    "tier" : "2"
+  },
+  { "value" : "2412",
+    "name" : "Ann Taylor LOFT",
+    "company_system_name" : "ann_taylor_loft",
+    "tier" : "2"
+  },
+  { "value" : "2466",
+    "name" : "Anthropologie",
+    "company_system_name" : "anthropologie",
+    "tier" : "1"
+  },
+  { "value" : "2195",
+    "name" : "Appleseeds",
+    "company_system_name" : "appleseeds",
+    "tier" : "3"
+  },
+  { "value" : "2279",
+    "name" : "Areva",
+    "company_system_name" : "areva",
+    "tier" : "4"
+  },
+  { "value" : "2298",
+    "name" : "Art Gallerist",
+    "company_system_name" : "art_gallerist",
+    "tier" : "4"
+  },
+  { "value" : "2192",
+    "name" : "As We Change",
+    "company_system_name" : "as_we_change",
+    "tier" : "3"
+  },
+  { "value" : "2203",
+    "name" : "Ashford",
+    "company_system_name" : "ashford",
+    "tier" : "4"
+  },
+  { "value" : "2443",
+    "name" : "Ashro",
+    "company_system_name" : "ashro",
+    "tier" : "0"
+  },
+  { "value" : "2120",
+    "name" : "Astral Brands",
+    "company_system_name" : "astral_brands_drm",
+    "tier" : "0"
+  },
+  { "value" : "2164",
+    "name" : "Austads Golf",
+    "company_system_name" : "austads_golf",
+    "tier" : "4"
+  },
+  { "value" : "2081",
+    "name" : "AutoAnything",
+    "company_system_name" : "auto_anything",
+    "tier" : "0"
+  },
+  { "value" : "2343",
+    "name" : "Avon",
+    "company_system_name" : "avon",
+    "tier" : "1"
+  },
+  { "value" : "2345",
+    "name" : "Avon Shop",
+    "company_system_name" : "avon_shop",
+    "tier" : "1"
+  },
+  { "value" : "2023",
+    "name" : "Back Country",
+    "company_system_name" : "back_country",
+    "tier" : "2"
+  },
+  { "value" : "2094",
+    "name" : "Bag Borrow Or Steal",
+    "company_system_name" : "bagborroworsteal",
+    "tier" : "3"
+  },
+  { "value" : "2303",
+    "name" : "Bare Necessities",
+    "company_system_name" : "bare_necessities",
+    "tier" : "2"
+  },
+  { "value" : "2313",
+    "name" : "Barnes and Noble",
+    "company_system_name" : "barnes_noble",
+    "tier" : "1"
+  },
+  { "value" : "2337",
+    "name" : "Baseball Savings",
+    "company_system_name" : "baseball_savings",
+    "tier" : "2"
+  },
+  { "value" : "2434",
+    "name" : "Baudville",
+    "company_system_name" : "baudville",
+    "tier" : "3"
+  },
+  { "value" : "2523",
+    "name" : "Baymont Hotels",
+    "company_system_name" : "baymont_hotels",
+    "tier" : "0"
+  },
+  { "value" : "2224",
+    "name" : "Bellacor",
+    "company_system_name" : "bellacor",
+    "tier" : "3"
+  },
+  { "value" : "2493",
+    "name" : "Ben Meadows",
+    "company_system_name" : "ben_meadows",
+    "tier" : "2"
+  },
+  { "value" : "2417",
+    "name" : "Benjamin Moore",
+    "company_system_name" : "benjamin_moore",
+    "tier" : "4"
+  },
+  { "value" : "2425",
+    "name" : "Bergdorf Goodman",
+    "company_system_name" : "bergdorf_goodman",
+    "tier" : "1"
+  },
+  { "value" : "2346",
+    "name" : "Best Of Scrubs",
+    "company_system_name" : "best_of_scrubs",
+    "tier" : "3"
+  },
+  { "value" : "2297",
+    "name" : "Bloomingdales",
+    "company_system_name" : "bloomingdales",
+    "tier" : "2"
+  },
+  { "value" : "2278",
+    "name" : "Bluefly",
+    "company_system_name" : "bluefly",
+    "tier" : "2"
+  },
+  { "value" : "2109",
+    "name" : "Boca Java",
+    "company_system_name" : "boca_java",
+    "tier" : "0"
+  },
+  { "value" : "2475",
+    "name" : "Boden",
+    "company_system_name" : "boden",
+    "tier" : "2"
+  },
+  { "value" : "2507",
+    "name" : "Body Central",
+    "company_system_name" : "body_central",
+    "tier" : "0"
+  },
+  { "value" : "2468",
+    "name" : "Bon-Ton",
+    "company_system_name" : "bon_ton",
+    "tier" : "1"
+  },
+  { "value" : "2347",
+    "name" : "BookRenter",
+    "company_system_name" : "bookrenter",
+    "tier" : "4"
+  },
+  { "value" : "2489",
+    "name" : "Boot Barn",
+    "company_system_name" : "boot_barn",
+    "tier" : "5"
+  },
+  { "value" : "2495",
+    "name" : "Bose Corporation",
+    "company_system_name" : "bose_corporation",
+    "tier" : "5"
+  },
+  { "value" : "2352",
+    "name" : "Boutique Europa",
+    "company_system_name" : "boutique_europa",
+    "tier" : "3"
+  },
+  { "value" : "2110",
+    "name" : "Brookstone",
+    "company_system_name" : "brookstone",
+    "tier" : "2"
+  },
+  { "value" : "2085",
+    "name" : "Budget",
+    "company_system_name" : "budget",
+    "tier" : "0"
+  },
+  { "value" : "2403",
+    "name" : "Buggies Unlimited",
+    "company_system_name" : "buggies_unlimited",
+    "tier" : "4"
+  },
+  { "value" : "2331",
+    "name" : "Burpee",
+    "company_system_name" : "burpee",
+    "tier" : "3"
+  },
+  { "value" : "2402",
+    "name" : "Burts Bees",
+    "company_system_name" : "burts_bees",
+    "tier" : "3"
+  },
+  { "value" : "2009",
+    "name" : "Buy.com",
+    "company_system_name" : "buy_com",
+    "tier" : "0"
+  },
+  { "value" : "2437",
+    "name" : "CB2",
+    "company_system_name" : "cb2",
+    "tier" : "1"
+  },
+  { "value" : "2141",
+    "name" : "CBS (CBS Store)",
+    "company_system_name" : "cbs",
+    "tier" : "4"
+  },
+  { "value" : "2288",
+    "name" : "CCS",
+    "company_system_name" : "ccs",
+    "tier" : "1"
+  },
+  { "value" : "2399",
+    "name" : "CDW",
+    "company_system_name" : "cdw",
+    "tier" : "1"
+  },
+  { "value" : "2439",
+    "name" : "CUSP",
+    "company_system_name" : "cusp",
+    "tier" : "1"
+  },
+  { "value" : "2122",
+    "name" : "Cabelas",
+    "company_system_name" : "cabelas",
+    "tier" : "1"
+  },
+  { "value" : "2524",
+    "name" : "Cabelas Canada",
+    "company_system_name" : "cabelas_canada",
+    "tier" : "0"
+  },
+  { "value" : "2147",
+    "name" : "CableOrganizer",
+    "company_system_name" : "cableorganizer",
+    "tier" : "4"
+  },
+  { "value" : "2291",
+    "name" : "Cafe Press",
+    "company_system_name" : "cafe_press",
+    "tier" : "1"
+  },
+  { "value" : "2401",
+    "name" : "Cambria Cove",
+    "company_system_name" : "cambria_cove",
+    "tier" : "3"
+  },
+  { "value" : "2498",
+    "name" : "Carousel Checks Inc",
+    "company_system_name" : "carousel_checks_inc",
+    "tier" : "5"
+  },
+  { "value" : "2162",
+    "name" : "Casey Research",
+    "company_system_name" : "caseyresearch",
+    "tier" : "4"
+  },
+  { "value" : "2269",
+    "name" : "Casual Male",
+    "company_system_name" : "casual_male",
+    "tier" : "3"
+  },
+  { "value" : "2431",
+    "name" : "Cat Footwear",
+    "company_system_name" : "cat_footwear",
+    "tier" : "3"
+  },
+  { "value" : "2395",
+    "name" : "Chaco",
+    "company_system_name" : "chaco",
+    "tier" : "3"
+  },
+  { "value" : "2257",
+    "name" : "Chadwicks",
+    "company_system_name" : "chadwicks",
+    "tier" : "2"
+  },
+  { "value" : "2243",
+    "name" : "Champion",
+    "company_system_name" : "champion",
+    "tier" : "1"
+  },
+  { "value" : "2372",
+    "name" : "Champs Sports",
+    "company_system_name" : "champs_sports",
+    "tier" : "1"
+  },
+  { "value" : "2028",
+    "name" : "Cheap Tickets",
+    "company_system_name" : "cheap_tickets",
+    "tier" : "1"
+  },
+  { "value" : "2218",
+    "name" : "CheapFlights",
+    "company_system_name" : "cheapflights",
+    "tier" : "4"
+  },
+  { "value" : "2153",
+    "name" : "CheapOAir",
+    "company_system_name" : "cheapo_air",
+    "tier" : "1"
+  },
+  { "value" : "2264",
+    "name" : "Cheaper Than Dirt",
+    "company_system_name" : "cheaper_than_dirt",
+    "tier" : "0"
+  },
+  { "value" : "2407",
+    "name" : "Chegg",
+    "company_system_name" : "chegg",
+    "tier" : "2"
+  },
+  { "value" : "2047",
+    "name" : "Chicago Tribune",
+    "company_system_name" : "chicago_tribune",
+    "tier" : "4"
+  },
+  { "value" : "2429",
+    "name" : "Christmas Cards Direct",
+    "company_system_name" : "christmas_cards_direct",
+    "tier" : "0"
+  },
+  { "value" : "2099",
+    "name" : "Classmates",
+    "company_system_name" : "classmates",
+    "tier" : "0"
+  },
+  { "value" : "2349",
+    "name" : "Coach",
+    "company_system_name" : "coach",
+    "tier" : "2"
+  },
+  { "value" : "2236",
+    "name" : "Coldwater Creek",
+    "company_system_name" : "coldwater_creek",
+    "tier" : "2"
+  },
+  { "value" : "2059",
+    "name" : "Collectibles Today",
+    "company_system_name" : "collectibles_today",
+    "tier" : "3"
+  },
+  { "value" : "2315",
+    "name" : "Collections Etc",
+    "company_system_name" : "collections_etc",
+    "tier" : "3"
+  },
+  { "value" : "2438",
+    "name" : "College Book Renter",
+    "company_system_name" : "collegebookrenter",
+    "tier" : "4"
+  },
+  { "value" : "2302",
+    "name" : "Colorful Images",
+    "company_system_name" : "colorful_images",
+    "tier" : "3"
+  },
+  { "value" : "2451",
+    "name" : "Commission Junction",
+    "company_system_name" : "commission_junction",
+    "tier" : "5"
+  },
+  { "value" : "2487",
+    "name" : "Consumers Rule",
+    "company_system_name" : "consumers_rule",
+    "tier" : "0"
+  },
+  { "value" : "2335",
+    "name" : "Coremetrics",
+    "company_system_name" : "coremetrics",
+    "tier" : "4"
+  },
+  { "value" : "2477",
+    "name" : "Cortes Clone",
+    "company_system_name" : "cortes_clone",
+    "tier" : "0"
+  },
+  { "value" : "2183",
+    "name" : "Country Curtains",
+    "company_system_name" : "country_curtains",
+    "tier" : "3"
+  },
+  { "value" : "2422",
+    "name" : "Country Door",
+    "company_system_name" : "country_door",
+    "tier" : "1"
+  },
+  { "value" : "2456",
+    "name" : "CouponMountain",
+    "company_system_name" : "couponmountain",
+    "tier" : "3"
+  },
+  { "value" : "2436",
+    "name" : "Crate & Barrel",
+    "company_system_name" : "crate_and_barrel",
+    "tier" : "1"
+  },
+  { "value" : "2479",
+    "name" : "Crazy8",
+    "company_system_name" : "crazy8",
+    "tier" : "1"
+  },
+  { "value" : "2410",
+    "name" : "Crocs",
+    "company_system_name" : "crocs",
+    "tier" : "2"
+  },
+  { "value" : "2513",
+    "name" : "Crunch",
+    "company_system_name" : "crunch",
+    "tier" : "0"
+  },
+  { "value" : "2440",
+    "name" : "Cultivate",
+    "company_system_name" : "cultivate",
+    "tier" : "1"
+  },
+  { "value" : "2301",
+    "name" : "Current Catalog",
+    "company_system_name" : "currentcatalog",
+    "tier" : "3"
+  },
+  { "value" : "2449",
+    "name" : "Current USA",
+    "company_system_name" : "current_usa",
+    "tier" : "0"
+  },
+  { "value" : "2167",
+    "name" : "Cutter & Buck",
+    "company_system_name" : "cutterandbuck",
+    "tier" : "4"
+  },
+  { "value" : "2159",
+    "name" : "Danbury Mint",
+    "company_system_name" : "danbury_mint",
+    "tier" : "4"
+  },
+  { "value" : "2116",
+    "name" : "Dealix",
+    "company_system_name" : "dealix",
+    "tier" : "0"
+  },
+  { "value" : "2377",
+    "name" : "Dean and Deluca",
+    "company_system_name" : "dean_and_deluca",
+    "tier" : "3"
+  },
+  { "value" : "2034",
+    "name" : "Deep Discount DVD",
+    "company_system_name" : "deep_discount_dvd",
+    "tier" : "3"
+  },
+  { "value" : "2171",
+    "name" : "Designer Linens Outlet",
+    "company_system_name" : "designer_linens_outlet",
+    "tier" : "0"
+  },
+  { "value" : "2035",
+    "name" : "Dick Blick",
+    "company_system_name" : "dick_blick",
+    "tier" : "2"
+  },
+  { "value" : "2132",
+    "name" : "Dick Sporting Goods",
+    "company_system_name" : "dicks_sporting_goods",
+    "tier" : "1"
+  },
+  { "value" : "2000",
+    "name" : "Dotomi",
+    "company_system_name" : "dotomi",
+    "tier" : "0"
+  },
+  { "value" : "2271",
+    "name" : "Drexel University",
+    "company_system_name" : "drexel",
+    "tier" : "3"
+  },
+  { "value" : "2517",
+    "name" : "Dropcam",
+    "company_system_name" : "dropcam",
+    "tier" : "0"
+  },
+  { "value" : "2104",
+    "name" : "Drugstore",
+    "company_system_name" : "drugstore",
+    "tier" : "0"
+  },
+  { "value" : "2087",
+    "name" : "E-Loan",
+    "company_system_name" : "eloan",
+    "tier" : "0"
+  },
+  { "value" : "2065",
+    "name" : "EMS",
+    "company_system_name" : "ems",
+    "tier" : "0"
+  },
+  { "value" : "2222",
+    "name" : "Eastbay",
+    "company_system_name" : "eastbay",
+    "tier" : "1"
+  },
+  { "value" : "2494",
+    "name" : "Easton Sports",
+    "company_system_name" : "easton_sports",
+    "tier" : "5"
+  },
+  { "value" : "2190",
+    "name" : "Easy Comforts",
+    "company_system_name" : "easy_comforts",
+    "tier" : "3"
+  },
+  { "value" : "2418",
+    "name" : "Eddie Bauer",
+    "company_system_name" : "eddie_bauer",
+    "tier" : "1"
+  },
+  { "value" : "2259",
+    "name" : "Edmund Optics",
+    "company_system_name" : "edmund_optics",
+    "tier" : "3"
+  },
+  { "value" : "2185",
+    "name" : "Encana",
+    "company_system_name" : "encana",
+    "tier" : "0"
+  },
+  { "value" : "2254",
+    "name" : "Exclusively Weddings",
+    "company_system_name" : "exclusively_weddings",
+    "tier" : "4"
+  },
+  { "value" : "2191",
+    "name" : "Exposures",
+    "company_system_name" : "exposures",
+    "tier" : "3"
+  },
+  { "value" : "2379",
+    "name" : "Express",
+    "company_system_name" : "express",
+    "tier" : "2"
+  },
+  { "value" : "2330",
+    "name" : "EyeSave",
+    "company_system_name" : "eyesave",
+    "tier" : "3"
+  },
+  { "value" : "2066",
+    "name" : "Fans Edge",
+    "company_system_name" : "fans_edge",
+    "tier" : "3"
+  },
+  { "value" : "2253",
+    "name" : "Fashion Fabrics Club",
+    "company_system_name" : "fashionfabricsclub",
+    "tier" : "4"
+  },
+  { "value" : "2139",
+    "name" : "FastFloors",
+    "company_system_name" : "fastfloors",
+    "tier" : "4"
+  },
+  { "value" : "2234",
+    "name" : "Filson",
+    "company_system_name" : "filson",
+    "tier" : "3"
+  },
+  { "value" : "2103",
+    "name" : "Fingerhut",
+    "company_system_name" : "fingerhut",
+    "tier" : "1"
+  },
+  { "value" : "2398",
+    "name" : "Finish Line",
+    "company_system_name" : "finish_line",
+    "tier" : "2"
+  },
+  { "value" : "2268",
+    "name" : "Fogdog",
+    "company_system_name" : "fogdog",
+    "tier" : "1"
+  },
+  { "value" : "2223",
+    "name" : "Foot Locker",
+    "company_system_name" : "footlocker",
+    "tier" : "1"
+  },
+  { "value" : "2408",
+    "name" : "FootAction",
+    "company_system_name" : "footaction",
+    "tier" : "2"
+  },
+  { "value" : "2083",
+    "name" : "FootSmart",
+    "company_system_name" : "footsmart",
+    "tier" : "2"
+  },
+  { "value" : "2286",
+    "name" : "Football Fanatics",
+    "company_system_name" : "football_fanatics",
+    "tier" : "3"
+  },
+  { "value" : "2144",
+    "name" : "Footwear etc",
+    "company_system_name" : "footwearetc",
+    "tier" : "4"
+  },
+  { "value" : "2048",
+    "name" : "For Ink Jets",
+    "company_system_name" : "for_ink_jets",
+    "tier" : "3"
+  },
+  { "value" : "2186",
+    "name" : "Fragrance Net",
+    "company_system_name" : "fragrancenet",
+    "tier" : "3"
+  },
+  { "value" : "2250",
+    "name" : "Freshpair",
+    "company_system_name" : "freshpair",
+    "tier" : "3"
+  },
+  { "value" : "2152",
+    "name" : "Fujitsu",
+    "company_system_name" : "fujitsu",
+    "tier" : "3"
+  },
+  { "value" : "2318",
+    "name" : "Funjet Vacations",
+    "company_system_name" : "funjet_vacations",
+    "tier" : "0"
+  },
+  { "value" : "2262",
+    "name" : "GNC",
+    "company_system_name" : "gnc",
+    "tier" : "1"
+  },
+  { "value" : "2255",
+    "name" : "GT Xpress 101",
+    "company_system_name" : "gtxpress101",
+    "tier" : "4"
+  },
+  { "value" : "2284",
+    "name" : "Gaiam",
+    "company_system_name" : "gaiam",
+    "tier" : "3"
+  },
+  { "value" : "2354",
+    "name" : "GameStop",
+    "company_system_name" : "gamestop",
+    "tier" : "1"
+  },
+  { "value" : "2266",
+    "name" : "Gardeners",
+    "company_system_name" : "gardeners",
+    "tier" : "3"
+  },
+  { "value" : "2471",
+    "name" : "Gemplers",
+    "company_system_name" : "gemplers",
+    "tier" : "2"
+  },
+  { "value" : "2201",
+    "name" : "Get Organized",
+    "company_system_name" : "get_organized",
+    "tier" : "4"
+  },
+  { "value" : "2296",
+    "name" : "Gettington",
+    "company_system_name" : "gettingtons",
+    "tier" : "2"
+  },
+  { "value" : "2396",
+    "name" : "Getty Images",
+    "company_system_name" : "getty_images",
+    "tier" : "3"
+  },
+  { "value" : "2323",
+    "name" : "Gifts For You Now",
+    "company_system_name" : "gifts_for_you_now",
+    "tier" : "3"
+  },
+  { "value" : "2445",
+    "name" : "Ginnys",
+    "company_system_name" : "ginnys",
+    "tier" : "0"
+  },
+  { "value" : "2177",
+    "name" : "Giorgio Armani Beauty",
+    "company_system_name" : "giorgio_armani_beauty",
+    "tier" : "0"
+  },
+  { "value" : "2290",
+    "name" : "GoPromos",
+    "company_system_name" : "gopromos",
+    "tier" : "3"
+  },
+  { "value" : "2311",
+    "name" : "Godiva",
+    "company_system_name" : "godiva",
+    "tier" : "3"
+  },
+  { "value" : "2143",
+    "name" : "Goldspeed",
+    "company_system_name" : "goldspeed",
+    "tier" : "4"
+  },
+  { "value" : "2332",
+    "name" : "Golfsmith",
+    "company_system_name" : "golfsmith",
+    "tier" : "2"
+  },
+  { "value" : "2098",
+    "name" : "Goodmail",
+    "company_system_name" : "goodmail",
+    "tier" : "0"
+  },
+  { "value" : "2384",
+    "name" : "Grainger",
+    "company_system_name" : "grainger",
+    "tier" : "1"
+  },
+  { "value" : "2460",
+    "name" : "Green Mountain Coffee",
+    "company_system_name" : "green_mountain_coffee",
+    "tier" : "3"
+  },
+  { "value" : "2473",
+    "name" : "Griffin Technology",
+    "company_system_name" : "griffin_technology",
+    "tier" : "5"
+  },
+  { "value" : "2476",
+    "name" : "Groupon",
+    "company_system_name" : "groupon",
+    "tier" : "1"
+  },
+  { "value" : "2089",
+    "name" : "Guess",
+    "company_system_name" : "guess",
+    "tier" : "0"
+  },
+  { "value" : "2380",
+    "name" : "Guitar Center",
+    "company_system_name" : "guitar_center",
+    "tier" : "1"
+  },
+  { "value" : "2478",
+    "name" : "Gymboree",
+    "company_system_name" : "gymboree",
+    "tier" : "1"
+  },
+  { "value" : "2027",
+    "name" : "H&R Block",
+    "company_system_name" : "h_and_r_block",
+    "tier" : "0"
+  },
+  { "value" : "2364",
+    "name" : "HSN",
+    "company_system_name" : "hsn",
+    "tier" : "1"
+  },
+  { "value" : "2170",
+    "name" : "Haband",
+    "company_system_name" : "haband",
+    "tier" : "3"
+  },
+  { "value" : "2176",
+    "name" : "Hachette",
+    "company_system_name" : "hachette",
+    "tier" : "0"
+  },
+  { "value" : "2031",
+    "name" : "Hallmark",
+    "company_system_name" : "hallmark",
+    "tier" : "3"
+  },
+  { "value" : "2172",
+    "name" : "Hallmark Business Expressions",
+    "company_system_name" : "hallmark_business",
+    "tier" : "3"
+  },
+  { "value" : "2242",
+    "name" : "Hanes",
+    "company_system_name" : "hanes",
+    "tier" : "1"
+  },
+  { "value" : "2363",
+    "name" : "Hanna Andersson",
+    "company_system_name" : "hanna_andersson",
+    "tier" : "3"
+  },
+  { "value" : "2470",
+    "name" : "Hayneedle",
+    "company_system_name" : "hayneedle",
+    "tier" : "1"
+  },
+  { "value" : "2230",
+    "name" : "HerRoom",
+    "company_system_name" : "herroom",
+    "tier" : "4"
+  },
+  { "value" : "2274",
+    "name" : "Hickory Farms",
+    "company_system_name" : "hickory_farms",
+    "tier" : "4"
+  },
+  { "value" : "2199",
+    "name" : "History Shop",
+    "company_system_name" : "history_shop",
+    "tier" : "3"
+  },
+  { "value" : "2424",
+    "name" : "Home Decorators",
+    "company_system_name" : "home_decorators",
+    "tier" : "1"
+  },
+  { "value" : "2339",
+    "name" : "Home Depot",
+    "company_system_name" : "home_depot",
+    "tier" : "1"
+  },
+  { "value" : "2237",
+    "name" : "Homeopathy",
+    "company_system_name" : "homeopathy",
+    "tier" : "4"
+  },
+  { "value" : "2064",
+    "name" : "Homevisions",
+    "company_system_name" : "homevisions",
+    "tier" : "0"
+  },
+  { "value" : "2427",
+    "name" : "Horchow",
+    "company_system_name" : "horchow",
+    "tier" : "1"
+  },
+  { "value" : "2329",
+    "name" : "Hush Puppies",
+    "company_system_name" : "hush_puppies",
+    "tier" : "3"
+  },
+  { "value" : "2124",
+    "name" : "Hyatt",
+    "company_system_name" : "hyatt",
+    "tier" : "1"
+  },
+  { "value" : "2454",
+    "name" : "IDVille",
+    "company_system_name" : "idville",
+    "tier" : "3"
+  },
+  { "value" : "2504",
+    "name" : "Ideal Home Garden",
+    "company_system_name" : "ideal_home_garden",
+    "tier" : "3"
+  },
+  { "value" : "2293",
+    "name" : "Improvement Direct",
+    "company_system_name" : "improvement_direct",
+    "tier" : "2"
+  },
+  { "value" : "2373",
+    "name" : "InkCartridges",
+    "company_system_name" : "inkcartridges",
+    "tier" : "3"
+  },
+  { "value" : "2128",
+    "name" : "Inkjet Superstore",
+    "company_system_name" : "inkjet_superstore",
+    "tier" : "0"
+  },
+  { "value" : "2458",
+    "name" : "Investopedia",
+    "company_system_name" : "investopedia",
+    "tier" : "3"
+  },
+  { "value" : "2229",
+    "name" : "J. Jill",
+    "company_system_name" : "j_jill",
+    "tier" : "2"
+  },
+  { "value" : "2155",
+    "name" : "JBR",
+    "company_system_name" : "jbr",
+    "tier" : "0"
+  },
+  { "value" : "2032",
+    "name" : "JC Whitney",
+    "company_system_name" : "jc_whitney",
+    "tier" : "1"
+  },
+  { "value" : "2371",
+    "name" : "Jazzed",
+    "company_system_name" : "jazzed",
+    "tier" : "0"
+  },
+  { "value" : "2175",
+    "name" : "Jo-Ann",
+    "company_system_name" : "joann",
+    "tier" : "2"
+  },
+  { "value" : "2207",
+    "name" : "Julianna Rae",
+    "company_system_name" : "julianna_rae",
+    "tier" : "4"
+  },
+  { "value" : "2247",
+    "name" : "Just My Size",
+    "company_system_name" : "just_my_size",
+    "tier" : "1"
+  },
+  { "value" : "2125",
+    "name" : "Karito Kids",
+    "company_system_name" : "karitokids",
+    "tier" : "4"
+  },
+  { "value" : "2123",
+    "name" : "Kate Spade",
+    "company_system_name" : "katespade",
+    "tier" : "1"
+  },
+  { "value" : "2510",
+    "name" : "Kenneth Cole",
+    "company_system_name" : "kenneth_cole",
+    "tier" : "0"
+  },
+  { "value" : "2405",
+    "name" : "Kids Foot Locker",
+    "company_system_name" : "kidsfootlocker",
+    "tier" : "2"
+  },
+  { "value" : "2283",
+    "name" : "Killer Dana",
+    "company_system_name" : "killer_dana",
+    "tier" : "4"
+  },
+  { "value" : "2481",
+    "name" : "L.L. Bean",
+    "company_system_name" : "ll_bean",
+    "tier" : "2"
+  },
+  { "value" : "2406",
+    "name" : "Lady Foot Locker",
+    "company_system_name" : "ladyfootlocker",
+    "tier" : "2"
+  },
+  { "value" : "2084",
+    "name" : "Lamps Plus",
+    "company_system_name" : "lamps_plus",
+    "tier" : "3"
+  },
+  { "value" : "2053",
+    "name" : "Lancome",
+    "company_system_name" : "lancome",
+    "tier" : "0"
+  },
+  { "value" : "2341",
+    "name" : "Land of Nod",
+    "company_system_name" : "land_of_nod",
+    "tier" : "1"
+  },
+  { "value" : "2452",
+    "name" : "Landsend Business Outfitters",
+    "company_system_name" : "landsend_business_outfitters",
+    "tier" : "3"
+  },
+  { "value" : "2426",
+    "name" : "Last Call",
+    "company_system_name" : "last_call",
+    "tier" : "1"
+  },
+  { "value" : "2261",
+    "name" : "LeatherUp",
+    "company_system_name" : "leatherup",
+    "tier" : "3"
+  },
+  { "value" : "2217",
+    "name" : "LegalZoom",
+    "company_system_name" : "legalzoom",
+    "tier" : "2"
+  },
+  { "value" : "2184",
+    "name" : "Lenox",
+    "company_system_name" : "lenox",
+    "tier" : "3"
+  },
+  { "value" : "2082",
+    "name" : "Levenger",
+    "company_system_name" : "levenger",
+    "tier" : "4"
+  },
+  { "value" : "2173",
+    "name" : "LifeFone",
+    "company_system_name" : "lifefone",
+    "tier" : "4"
+  },
+  { "value" : "2077",
+    "name" : "LillianVernon",
+    "company_system_name" : "lillian_vernon",
+    "tier" : "3"
+  },
+  { "value" : "2491",
+    "name" : "Livenation",
+    "company_system_name" : "livenation",
+    "tier" : "0"
+  },
+  { "value" : "2355",
+    "name" : "Loccitane",
+    "company_system_name" : "loccitane",
+    "tier" : "3"
+  },
+  { "value" : "2309",
+    "name" : "LogMeIn",
+    "company_system_name" : "log_me_in",
+    "tier" : "4"
+  },
+  { "value" : "2497",
+    "name" : "LogoYes",
+    "company_system_name" : "logoyes",
+    "tier" : "2"
+  },
+  { "value" : "2115",
+    "name" : "Lumber Liquidators",
+    "company_system_name" : "lumber_liquidators",
+    "tier" : "3"
+  },
+  { "value" : "2465",
+    "name" : "Mark and Graham",
+    "company_system_name" : "wsi_brand",
+    "tier" : "2"
+  },
+  { "value" : "2111",
+    "name" : "Masseys Outfitters",
+    "company_system_name" : "masseys_outfitters",
+    "tier" : "0"
+  },
+  { "value" : "2055",
+    "name" : "Match",
+    "company_system_name" : "match",
+    "tier" : "0"
+  },
+  { "value" : "2519",
+    "name" : "MaxStudio",
+    "company_system_name" : "maxstudio",
+    "tier" : "5"
+  },
+  { "value" : "2239",
+    "name" : "Meijer",
+    "company_system_name" : "meijer",
+    "tier" : "3"
+  },
+  { "value" : "2294",
+    "name" : "Merrell",
+    "company_system_name" : "merrell",
+    "tier" : "3"
+  },
+  { "value" : "2118",
+    "name" : "Met Museum",
+    "company_system_name" : "met_museum",
+    "tier" : "3"
+  },
+  { "value" : "2258",
+    "name" : "Metro Style",
+    "company_system_name" : "metro_style",
+    "tier" : "2"
+  },
+  { "value" : "2446",
+    "name" : "Midnight Velvet",
+    "company_system_name" : "midnight_velvet",
+    "tier" : "0"
+  },
+  { "value" : "2464",
+    "name" : "Milanoo",
+    "company_system_name" : "milanoo",
+    "tier" : "5"
+  },
+  { "value" : "2188",
+    "name" : "Miles Kimball",
+    "company_system_name" : "mileskimball",
+    "tier" : "3"
+  },
+  { "value" : "2376",
+    "name" : "Minted",
+    "company_system_name" : "minted",
+    "tier" : "3"
+  },
+  { "value" : "2505",
+    "name" : "Mobile Karma",
+    "company_system_name" : "mobile_karma",
+    "tier" : "5"
+  },
+  { "value" : "2423",
+    "name" : "Monroe and Main",
+    "company_system_name" : "monroe_and_main",
+    "tier" : "1"
+  },
+  { "value" : "2043",
+    "name" : "Monster",
+    "company_system_name" : "monster",
+    "tier" : "3"
+  },
+  { "value" : "2095",
+    "name" : "Monster Canada",
+    "company_system_name" : "monster_canada",
+    "tier" : "4"
+  },
+  { "value" : "2119",
+    "name" : "Montana Legend",
+    "company_system_name" : "montana_legend",
+    "tier" : "0"
+  },
+  { "value" : "2444",
+    "name" : "Montgomery Ward",
+    "company_system_name" : "montgomery_ward",
+    "tier" : "0"
+  },
+  { "value" : "2054",
+    "name" : "Moosejaw",
+    "company_system_name" : "moosejaw",
+    "tier" : "0"
+  },
+  { "value" : "2292",
+    "name" : "Motosport",
+    "company_system_name" : "motosport",
+    "tier" : "3"
+  },
+  { "value" : "2168",
+    "name" : "Mrs.Beasleys",
+    "company_system_name" : "mrs_beasleys",
+    "tier" : "4"
+  },
+  { "value" : "2312",
+    "name" : "Mrs.Prindables",
+    "company_system_name" : "mrs_prindables",
+    "tier" : "4"
+  },
+  { "value" : "2174",
+    "name" : "Museum Tour",
+    "company_system_name" : "museum_tour",
+    "tier" : "4"
+  },
+  { "value" : "2026",
+    "name" : "Musicians Friend",
+    "company_system_name" : "musicians_friend",
+    "tier" : "1"
+  },
+  { "value" : "2359",
+    "name" : "MyLife",
+    "company_system_name" : "mylife",
+    "tier" : "2"
+  },
+  { "value" : "2136",
+    "name" : "NBA Store",
+    "company_system_name" : "nba",
+    "tier" : "1"
+  },
+  { "value" : "2151",
+    "name" : "NBC",
+    "company_system_name" : "nbc",
+    "tier" : "3"
+  },
+  { "value" : "2404",
+    "name" : "NCMEC",
+    "company_system_name" : "ncmec",
+    "tier" : "3"
+  },
+  { "value" : "2100",
+    "name" : "NFL Shop",
+    "company_system_name" : "nflshop",
+    "tier" : "1"
+  },
+  { "value" : "2130",
+    "name" : "NHL Shop",
+    "company_system_name" : "nhlshop",
+    "tier" : "1"
+  },
+  { "value" : "2386",
+    "name" : "Nashbar",
+    "company_system_name" : "nashbar",
+    "tier" : "3"
+  },
+  { "value" : "2165",
+    "name" : "National Pet Pharmacy",
+    "company_system_name" : "national_pet_pharmacy",
+    "tier" : "3"
+  },
+  { "value" : "2447",
+    "name" : "National Weather Service",
+    "company_system_name" : "national_weather_service",
+    "tier" : "3"
+  },
+  { "value" : "2362",
+    "name" : "Nationwide",
+    "company_system_name" : "nationwide",
+    "tier" : "3"
+  },
+  { "value" : "2419",
+    "name" : "Neiman Marcus",
+    "company_system_name" : "neiman_marcus",
+    "tier" : "1"
+  },
+  { "value" : "2121",
+    "name" : "NetShops",
+    "company_system_name" : "netshops",
+    "tier" : "0"
+  },
+  { "value" : "2448",
+    "name" : "Network Solutions",
+    "company_system_name" : "network_solutions",
+    "tier" : "2"
+  },
+  { "value" : "2070",
+    "name" : "Newegg",
+    "company_system_name" : "newegg",
+    "tier" : "0"
+  },
+  { "value" : "2514",
+    "name" : "No More Rack",
+    "company_system_name" : "no_more_rack",
+    "tier" : "0"
+  },
+  { "value" : "2353",
+    "name" : "Nordstrom",
+    "company_system_name" : "nordstrom",
+    "tier" : "1"
+  },
+  { "value" : "2357",
+    "name" : "Norm Thompson",
+    "company_system_name" : "norm_thompson",
+    "tier" : "2"
+  },
+  { "value" : "2280",
+    "name" : "Northern Safety",
+    "company_system_name" : "northern_safety",
+    "tier" : "4"
+  },
+  { "value" : "2461",
+    "name" : "Novica",
+    "company_system_name" : "novica",
+    "tier" : "5"
+  },
+  { "value" : "2485",
+    "name" : "NuWave",
+    "company_system_name" : "nuwave",
+    "tier" : "5"
+  },
+
+  { "value" : "2206",
+    "name" : "Office Depot",
+    "company_system_name" : "office_depot",
+    "tier" : "1"
+  },
+  { "value" : "2348",
+    "name" : "OfficeMax",
+    "company_system_name" : "officemax",
+    "tier" : "1"
+  },
+  { "value" : "2086",
+    "name" : "Omaha Steaks",
+    "company_system_name" : "omaha_steaks",
+    "tier" : "2"
+  },
+  { "value" : "2246",
+    "name" : "One Hanes Place",
+    "company_system_name" : "onehanesplace",
+    "tier" : "1"
+  },
+  { "value" : "2307",
+    "name" : "Oneida",
+    "company_system_name" : "oneida",
+    "tier" : "3"
+  },
+  { "value" : "2158",
+    "name" : "Online Shoes",
+    "company_system_name" : "onlineshoes",
+    "tier" : "2"
+  },
+  { "value" : "2181",
+    "name" : "Online Sports",
+    "company_system_name" : "online_sports",
+    "tier" : "0"
+  },
+  { "value" : "2001",
+    "name" : "Orbitz",
+    "company_system_name" : "orbitz",
+    "tier" : "1"
+  },
+  { "value" : "2299",
+    "name" : "Oriental Trading",
+    "company_system_name" : "oriental_trading",
+    "tier" : "1"
+  },
+  { "value" : "2182",
+    "name" : "Orvis",
+    "company_system_name" : "orvis",
+    "tier" : "2"
+  },
+  { "value" : "2194",
+    "name" : "Overnight Prints",
+    "company_system_name" : "overnight_prints",
+    "tier" : "2"
+  },
+  { "value" : "2154",
+    "name" : "Overstock.com",
+    "company_system_name" : "overstock",
+    "tier" : "1"
+  },
+  { "value" : "2146",
+    "name" : "OverstockArt",
+    "company_system_name" : "overstockart",
+    "tier" : "4"
+  },
+  { "value" : "2140",
+    "name" : "PBS",
+    "company_system_name" : "pbs",
+    "tier" : "1"
+  },
+  { "value" : "2462",
+    "name" : "PacSun",
+    "company_system_name" : "pacsun",
+    "tier" : "2"
+  },
+  { "value" : "2383",
+    "name" : "Paciolan",
+    "company_system_name" : "paciolan",
+    "tier" : "1"
+  },
+  { "value" : "2092",
+    "name" : "PajamaGram",
+    "company_system_name" : "pajamagram",
+    "tier" : "4"
+  },
+  { "value" : "2389",
+    "name" : "Paper Source",
+    "company_system_name" : "paper_source",
+    "tier" : "3"
+  },
+  { "value" : "2215",
+    "name" : "Park Sleep Fly",
+    "company_system_name" : "parksleepfly",
+    "tier" : "4"
+  },
+  { "value" : "2334",
+    "name" : "Party City",
+    "company_system_name" : "party_city",
+    "tier" : "0"
+  },
+  { "value" : "2308",
+    "name" : "Paul Fredrick",
+    "company_system_name" : "paul_fredrick",
+    "tier" : "4"
+  },
+  { "value" : "2211",
+    "name" : "Paula Young",
+    "company_system_name" : "paula_young",
+    "tier" : "4"
+  },
+  { "value" : "2126",
+    "name" : "PeopleFilter",
+    "company_system_name" : "peoplefilter",
+    "tier" : "4"
+  },
+  { "value" : "2381",
+    "name" : "Performance",
+    "company_system_name" : "performance",
+    "tier" : "3"
+  },
+  { "value" : "2508",
+    "name" : "PerfumeEmporium",
+    "company_system_name" : "perfumeemporium",
+    "tier" : "5"
+  },
+  { "value" : "2025",
+    "name" : "Personal Creations",
+    "company_system_name" : "personal_creations",
+    "tier" : "3"
+  },
+  { "value" : "2314",
+    "name" : "Personalization Mall",
+    "company_system_name" : "personalization_mall",
+    "tier" : "2"
+  },
+  { "value" : "2129",
+    "name" : "PetFoodDirect",
+    "company_system_name" : "petfooddirect",
+    "tier" : "3"
+  },
+  { "value" : "2430",
+    "name" : "Photo Cards Direct",
+    "company_system_name" : "photo_cards_direct",
+    "tier" : "0"
+  },
+  { "value" : "2415",
+    "name" : "Photos.com",
+    "company_system_name" : "photos_com",
+    "tier" : "2"
+  },
+  { "value" : "2499",
+    "name" : "Pima Medical Institute",
+    "company_system_name" : "pima_medical_institute",
+    "tier" : "0"
+  },
+  { "value" : "2263",
+    "name" : "Pitt County Hospital",
+    "company_system_name" : "pitt_county",
+    "tier" : "4"
+  },
+  { "value" : "2244",
+    "name" : "Positive Promotions",
+    "company_system_name" : "positive_promotions",
+    "tier" : "3"
+  },
+  { "value" : "2220",
+    "name" : "Pottery Barn",
+    "company_system_name" : "potterybarn",
+    "tier" : "1"
+  },
+  { "value" : "2221",
+    "name" : "Pottery Barn Kids",
+    "company_system_name" : "potterybarnkids",
+    "tier" : "1"
+  },
+  { "value" : "2252",
+    "name" : "Pottery Barn Teen",
+    "company_system_name" : "potterybarnteen",
+    "tier" : "1"
+  },
+  { "value" : "2003",
+    "name" : "Priceline",
+    "company_system_name" : "priceline",
+    "tier" : "2"
+  },
+  { "value" : "2306",
+    "name" : "Prints Made Easy",
+    "company_system_name" : "prints_made_easy",
+    "tier" : "4"
+  },
+  { "value" : "2024",
+    "name" : "Pro Flowers",
+    "company_system_name" : "pro_flowers",
+    "tier" : "2"
+  },
+  { "value" : "2392",
+    "name" : "Pro Sports Memorabilia",
+    "company_system_name" : "pro_sports_memorabilia",
+    "tier" : "3"
+  },
+  { "value" : "2472",
+    "name" : "Professional Equipment",
+    "company_system_name" : "professional_equipment",
+    "tier" : "2"
+  },
+  { "value" : "2413",
+    "name" : "Promoaid",
+    "company_system_name" : "promoaid",
+    "tier" : "3"
+  },
+  { "value" : "2265",
+    "name" : "Providence Health & Services",
+    "company_system_name" : "providence",
+    "tier" : "4"
+  },
+  { "value" : "2356",
+    "name" : "Prudent Publishing",
+    "company_system_name" : "prudent_publishing",
+    "tier" : "3"
+  },
+  { "value" : "2112",
+    "name" : "PsPrint",
+    "company_system_name" : "psprint",
+    "tier" : "3"
+  },
+  { "value" : "2320",
+    "name" : "QVC",
+    "company_system_name" : "qvc",
+    "tier" : "1"
+  },
+  { "value" : "2072",
+    "name" : "Quicken Loans",
+    "company_system_name" : "quicken_loans",
+    "tier" : "0"
+  },
+  { "value" : "2295",
+    "name" : "Razor Gator",
+    "company_system_name" : "razor_gator",
+    "tier" : "2"
+  },
+  { "value" : "2108",
+    "name" : "Real Networks",
+    "company_system_name" : "real_networks",
+    "tier" : "0"
+  },
+  { "value" : "2106",
+    "name" : "Red Envelope",
+    "company_system_name" : "red_envelope",
+    "tier" : "0"
+  },
+  { "value" : "2515",
+    "name" : "Red Roof",
+    "company_system_name" : "red_roof",
+    "tier" : "0"
+  },
+  { "value" : "2248",
+    "name" : "Reebok",
+    "company_system_name" : "reebok",
+    "tier" : "3"
+  },
+  { "value" : "2304",
+    "name" : "Register.com",
+    "company_system_name" : "register_com",
+    "tier" : "2"
+  },
+  { "value" : "2506",
+    "name" : "Reliable",
+    "company_system_name" : "reliable",
+    "tier" : "0"
+  },
+  { "value" : "2040",
+    "name" : "Remnant Buy",
+    "company_system_name" : "remnant_buy",
+    "tier" : "0"
+  },
+  { "value" : "2480",
+    "name" : "Rent The Runway",
+    "company_system_name" : "rent_the_runway",
+    "tier" : "5"
+  },
+  { "value" : "2117",
+    "name" : "Rhapsody",
+    "company_system_name" : "rhapsody",
+    "tier" : "0"
+  },
+  { "value" : "2260",
+    "name" : "Ring Central",
+    "company_system_name" : "ring_central",
+    "tier" : "3"
+  },
+  { "value" : "2305",
+    "name" : "Rochester Big & Tall",
+    "company_system_name" : "rochester",
+    "tier" : "3"
+  },
+  { "value" : "2231",
+    "name" : "Rockler",
+    "company_system_name" : "rockler",
+    "tier" : "3"
+  },
+  { "value" : "2509",
+    "name" : "Roku",
+    "company_system_name" : "roku",
+    "tier" : "0"
+  },
+  { "value" : "2142",
+    "name" : "Ross Simons",
+    "company_system_name" : "ross_simons",
+    "tier" : "2"
+  },
+  { "value" : "2450",
+    "name" : "Royalty Free Music",
+    "company_system_name" : "royalty_free_music",
+    "tier" : "0"
+  },
+  { "value" : "2272",
+    "name" : "Safelite",
+    "company_system_name" : "safelite",
+    "tier" : "3"
+  },
+  { "value" : "2428",
+    "name" : "Sahalie",
+    "company_system_name" : "sahalie",
+    "tier" : "3"
+  },
+  { "value" : "2409",
+    "name" : "Saks Fifth Avenue",
+    "company_system_name" : "saks_fifth_avenue",
+    "tier" : "1"
+  },
+  { "value" : "2400",
+    "name" : "Schneider Electric",
+    "company_system_name" : "schneider_electric",
+    "tier" : "4"
+  },
+  { "value" : "2328",
+    "name" : "Sebago",
+    "company_system_name" : "sebago",
+    "tier" : "3"
+  },
+  { "value" : "2516",
+    "name" : "Serta",
+    "company_system_name" : "serta",
+    "tier" : "0"
+  },
+  { "value" : "2421",
+    "name" : "Seventh Avenue",
+    "company_system_name" : "seventh_avenue",
+    "tier" : "1"
+  },
+  { "value" : "2484",
+    "name" : "Shade Clothing",
+    "company_system_name" : "shade_clothing",
+    "tier" : "0"
+  },
+  { "value" : "2500",
+    "name" : "Sharis Berries",
+    "company_system_name" : "sharis_berries",
+    "tier" : "2"
+  },
+  { "value" : "2137",
+    "name" : "ShoeBuy",
+    "company_system_name" : "shoebuy",
+    "tier" : "2"
+  },
+  { "value" : "2526",
+    "name" : "ShoeDazzle",
+    "company_system_name" : "shoedazzle",
+    "tier" : "0"
+  },
+  { "value" : "2340",
+    "name" : "ShoeMall",
+    "company_system_name" : "shoemall",
+    "tier" : "3"
+  },
+  { "value" : "2148",
+    "name" : "Shoes",
+    "company_system_name" : "shoes",
+    "tier" : "1"
+  },
+  { "value" : "2036",
+    "name" : "Shop NBC",
+    "company_system_name" : "shop_nbc",
+    "tier" : "2"
+  },
+  { "value" : "2226",
+    "name" : "ShopNWF",
+    "company_system_name" : "shopnwf",
+    "tier" : "4"
+  },
+  { "value" : "2511",
+    "name" : "Shutterfly",
+    "company_system_name" : "shutterfly",
+    "tier" : "3"
+  },
+  { "value" : "2057",
+    "name" : "Simply Audio Books",
+    "company_system_name" : "simply_audio_books",
+    "tier" : "0"
+  },
+  { "value" : "2049",
+    "name" : "Skechers",
+    "company_system_name" : "skechers",
+    "tier" : "2"
+  },
+  { "value" : "2388",
+    "name" : "Skillpath",
+    "company_system_name" : "skillpath",
+    "tier" : "3"
+  },
+  { "value" : "2006",
+    "name" : "Smart Bargains",
+    "company_system_name" : "smart_bargains",
+    "tier" : "2"
+  },
+  { "value" : "2457",
+    "name" : "Smarter.com",
+    "company_system_name" : "smarter",
+    "tier" : "0"
+  },
+  { "value" : "2227",
+    "name" : "Smarthome",
+    "company_system_name" : "smarthome",
+    "tier" : "4"
+  },
+  { "value" : "2316",
+    "name" : "Smithsonian",
+    "company_system_name" : "smithsonian",
+    "tier" : "4"
+  },
+  { "value" : "2391",
+    "name" : "Snapfinger",
+    "company_system_name" : "snapfinger",
+    "tier" : "4"
+  },
+  { "value" : "2385",
+    "name" : "Soccer Savings",
+    "company_system_name" : "soccer_savings",
+    "tier" : "2"
+  },
+  { "value" : "2322",
+    "name" : "Soft Surroundings",
+    "company_system_name" : "soft_surroundings",
+    "tier" : "4"
+  },
+  { "value" : "2338",
+    "name" : "Softball Savings",
+    "company_system_name" : "softball_savings",
+    "tier" : "2"
+  },
+  { "value" : "2317",
+    "name" : "Southwest Vacations",
+    "company_system_name" : "southwest_vacations",
+    "tier" : "3"
+  },
+  { "value" : "2107",
+    "name" : "Spiegel",
+    "company_system_name" : "spiegel",
+    "tier" : "0"
+  },
+  { "value" : "2287",
+    "name" : "Spirit Halloween",
+    "company_system_name" : "spirit_halloween",
+    "tier" : "2"
+  },
+  { "value" : "2197",
+    "name" : "Sports Authority",
+    "company_system_name" : "sports_authority",
+    "tier" : "1"
+  },
+  { "value" : "2393",
+    "name" : "SportsCases",
+    "company_system_name" : "sportscases",
+    "tier" : "3"
+  },
+  { "value" : "2333",
+    "name" : "Staples",
+    "company_system_name" : "staples",
+    "tier" : "1"
+  },
+  { "value" : "2382",
+    "name" : "Successories",
+    "company_system_name" : "successories",
+    "tier" : "3"
+  },
+  { "value" : "2520",
+    "name" : "Super 8 Motels",
+    "company_system_name" : "super_8_motels",
+    "tier" : "0"
+  },
+  { "value" : "2114",
+    "name" : "Swanson Health",
+    "company_system_name" : "swanson_health",
+    "tier" : "0"
+  },
+  { "value" : "2420",
+    "name" : "Swiss Colony",
+    "company_system_name" : "swiss_colony",
+    "tier" : "1"
+  },
+  { "value" : "2503",
+    "name" : "Symptom Find",
+    "company_system_name" : "symptom_find",
+    "tier" : "0"
+  },
+  { "value" : "2160",
+    "name" : "Tafford",
+    "company_system_name" : "tafford",
+    "tier" : "3"
+  },
+  { "value" : "2161",
+    "name" : "Target",
+    "company_system_name" : "target",
+    "tier" : "1"
+  },
+  { "value" : "2397",
+    "name" : "Target Brand Lift Studies",
+    "company_system_name" : "target_brand_lift_studies",
+    "tier" : "0"
+  },
+  { "value" : "2501",
+    "name" : "TaxAct",
+    "company_system_name" : "taxact",
+    "tier" : "0"
+  },
+  { "value" : "2200",
+    "name" : "Taylor Gifts",
+    "company_system_name" : "taylor_gifts",
+    "tier" : "4"
+  },
+  { "value" : "2267",
+    "name" : "TeamStore",
+    "company_system_name" : "teamstore",
+    "tier" : "1"
+  },
+  { "value" : "2273",
+    "name" : "The Company Store",
+    "company_system_name" : "the_company_store",
+    "tier" : "2"
+  },
+  { "value" : "2208",
+    "name" : "The Firm Direct",
+    "company_system_name" : "the_firm",
+    "tier" : "4"
+  },
+  { "value" : "2210",
+    "name" : "The Firm Wave",
+    "company_system_name" : "the_firm_wave",
+    "tier" : "4"
+  },
+  { "value" : "2366",
+    "name" : "The Gap",
+    "company_system_name" : "the_gap",
+    "tier" : "1"
+  },
+  { "value" : "2374",
+    "name" : "The Gap Canada",
+    "company_system_name" : "the_gap_canada",
+    "tier" : "1"
+  },
+  { "value" : "2375",
+    "name" : "The Gap UK",
+    "company_system_name" : "the_gap_uk",
+    "tier" : "1"
+  },
+  { "value" : "2310",
+    "name" : "The Golf Warehouse",
+    "company_system_name" : "the_golf_warehouse",
+    "tier" : "2"
+  },
+  { "value" : "2193",
+    "name" : "The Home Marketplace",
+    "company_system_name" : "the_home_marketplace",
+    "tier" : "3"
+  },
+  { "value" : "2360",
+    "name" : "The Sharper Image",
+    "company_system_name" : "the_sharper_image",
+    "tier" : "4"
+  },
+  { "value" : "2277",
+    "name" : "The Teaching Company",
+    "company_system_name" : "the_teaching_company",
+    "tier" : "4"
+  },
+  { "value" : "2196",
+    "name" : "The Tog Shop",
+    "company_system_name" : "the_tog_shop",
+    "tier" : "4"
+  },
+  { "value" : "2414",
+    "name" : "Thinkstock",
+    "company_system_name" : "thinkstock",
+    "tier" : "2"
+  },
+  { "value" : "2336",
+    "name" : "TickCo",
+    "company_system_name" : "tickco",
+    "tier" : "0"
+  },
+  { "value" : "2490",
+    "name" : "Ticketmaster",
+    "company_system_name" : "ticketmaster",
+    "tier" : "0"
+  },
+  { "value" : "2232",
+    "name" : "TicketsNow",
+    "company_system_name" : "ticketsnow",
+    "tier" : "1"
+  },
+  { "value" : "2213",
+    "name" : "Time Life",
+    "company_system_name" : "time_life",
+    "tier" : "3"
+  },
+  { "value" : "2180",
+    "name" : "Time for Me",
+    "company_system_name" : "timeforme",
+    "tier" : "4"
+  },
+  { "value" : "2045",
+    "name" : "Tool King",
+    "company_system_name" : "tool_king",
+    "tier" : "4"
+  },
+  { "value" : "2204",
+    "name" : "Toys R Us",
+    "company_system_name" : "toys_r_us",
+    "tier" : "1"
+  },
+  { "value" : "2008",
+    "name" : "Travelocity",
+    "company_system_name" : "travelocity",
+    "tier" : "1"
+  },
+  { "value" : "2521",
+    "name" : "Travelodge Hotel",
+    "company_system_name" : "travelodge_hotel",
+    "tier" : "0"
+  },
+  { "value" : "2351",
+    "name" : "TriaBeauty",
+    "company_system_name" : "triabeauty",
+    "tier" : "3"
+  },
+  { "value" : "2076",
+    "name" : "TruGreen",
+    "company_system_name" : "trugreen",
+    "tier" : "4"
+  },
+  { "value" : "2050",
+    "name" : "Trump University",
+    "company_system_name" : "trump_university",
+    "tier" : "4"
+  },
+  { "value" : "2433",
+    "name" : "Trupanion",
+    "company_system_name" : "trupanion",
+    "tier" : "4"
+  },
+  { "value" : "2233",
+    "name" : "US Watches",
+    "company_system_name" : "uswatches",
+    "tier" : "4"
+  },
+  { "value" : "2166",
+    "name" : "Ubid",
+    "company_system_name" : "ubid",
+    "tier" : "3"
+  },
+  { "value" : "2365",
+    "name" : "Under Armour",
+    "company_system_name" : "under_armour",
+    "tier" : "1"
+  },
+  { "value" : "2163",
+    "name" : "United Vacations",
+    "company_system_name" : "unitedvacations",
+    "tier" : "2"
+  },
+  { "value" : "2432",
+    "name" : "Upromise",
+    "company_system_name" : "upromise",
+    "tier" : "3"
+  },
+  { "value" : "2369",
+    "name" : "Urban Outfitters",
+    "company_system_name" : "urban_outfitters",
+    "tier" : "1"
+  },
+  { "value" : "2459",
+    "name" : "ValueClick Brands",
+    "company_system_name" : "valueclick_brands",
+    "tier" : "0"
+  },
+  { "value" : "2238",
+    "name" : "Vanns",
+    "company_system_name" : "vanns",
+    "tier" : "3"
+  },
+  { "value" : "2496",
+    "name" : "Venus",
+    "company_system_name" : "venus",
+    "tier" : "2"
+  },
+  { "value" : "2138",
+    "name" : "Vermont Country Store",
+    "company_system_name" : "vermont_countrystore",
+    "tier" : "4"
+  },
+  { "value" : "2091",
+    "name" : "Vermont Teddybear",
+    "company_system_name" : "vermont_teddybear",
+    "tier" : "4"
+  },
+  { "value" : "2482",
+    "name" : "Victoria's Secret",
+    "company_system_name" : "victorias_secret",
+    "tier" : "1"
+  },
+  { "value" : "2179",
+    "name" : "Victorian Trading Co",
+    "company_system_name" : "victorian_trading_co",
+    "tier" : "0"
+  },
+  { "value" : "2453",
+    "name" : "Vintners Alliance",
+    "company_system_name" : "vintners_alliance",
+    "tier" : "3"
+  },
+  { "value" : "2018",
+    "name" : "Vista Print",
+    "company_system_name" : "vista_print",
+    "tier" : "1"
+  },
+  { "value" : "2281",
+    "name" : "Vista Print CA",
+    "company_system_name" : "vistaprintca",
+    "tier" : "1"
+  },
+  { "value" : "2285",
+    "name" : "Vitamin Shoppe",
+    "company_system_name" : "vitamin_shoppe",
+    "tier" : "3"
+  },
+  { "value" : "2358",
+    "name" : "Vitamin World",
+    "company_system_name" : "vitamin_world",
+    "tier" : "4"
+  },
+  { "value" : "2390",
+    "name" : "WSI Designer Marketplace",
+    "company_system_name" : "wsi_designer_marketplace",
+    "tier" : "0"
+  },
+  { "value" : "2321",
+    "name" : "WSi Sweepsstakes",
+    "company_system_name" : "wsi_sweepsstakes",
+    "tier" : "0"
+  },
+  { "value" : "2101",
+    "name" : "Wal-Mart",
+    "company_system_name" : "walmart",
+    "tier" : "1"
+  },
+  { "value" : "2189",
+    "name" : "Walter Drake",
+    "company_system_name" : "walterdrake",
+    "tier" : "3"
+  },
+  { "value" : "2088",
+    "name" : "Wards",
+    "company_system_name" : "wards",
+    "tier" : "0"
+  },
+  { "value" : "2145",
+    "name" : "Watch Orbit",
+    "company_system_name" : "watchorbit",
+    "tier" : "0"
+  },
+  { "value" : "2416",
+    "name" : "Wayfair",
+    "company_system_name" : "csn",
+    "tier" : "2"
+  },
+  { "value" : "2149",
+    "name" : "West Elm",
+    "company_system_name" : "westelm",
+    "tier" : "1"
+  },
+  { "value" : "2212",
+    "name" : "Western Schools",
+    "company_system_name" : "western_schools",
+    "tier" : "4"
+  },
+  { "value" : "2527",
+    "name" : "Western Union",
+    "company_system_name" : "western_union",
+    "tier" : "0"
+  },
+  { "value" : "2245",
+    "name" : "WhiteSmoke",
+    "company_system_name" : "whitesmoke",
+    "tier" : "4"
+  },
+  { "value" : "2219",
+    "name" : "Williams Sonoma",
+    "company_system_name" : "williams_sonoma",
+    "tier" : "1"
+  },
+  { "value" : "2251",
+    "name" : "Williams Sonoma Home",
+    "company_system_name" : "williams_sonoma_home",
+    "tier" : "1"
+  },
+  { "value" : "2325",
+    "name" : "WinsorSlim",
+    "company_system_name" : "winsorslim",
+    "tier" : "0"
+  },
+  { "value" : "2102",
+    "name" : "Wirefly",
+    "company_system_name" : "wirefly",
+    "tier" : "0"
+  },
+  { "value" : "2326",
+    "name" : "Wolverine",
+    "company_system_name" : "wolverine",
+    "tier" : "3"
+  },
+  { "value" : "2387",
+    "name" : "Woodworkers Supply",
+    "company_system_name" : "woodworkers_supply",
+    "tier" : "3"
+  },
+  { "value" : "2324",
+    "name" : "Woolrich",
+    "company_system_name" : "woolrich",
+    "tier" : "3"
+  },
+  { "value" : "2249",
+    "name" : "World RugBy Shop",
+    "company_system_name" : "worldrugbyshop",
+    "tier" : "4"
+  },
+  { "value" : "2522",
+    "name" : "Wyndham Hotels",
+    "company_system_name" : "wyndham_hotels",
+    "tier" : "0"
+  },
+  { "value" : "2256",
+    "name" : "Xpress RediSetGo",
+    "company_system_name" : "xpress_redisetgo",
+    "tier" : "4"
+  },
+  { "value" : "2368",
+    "name" : "Yahoo Test",
+    "company_system_name" : "yahoo_test",
+    "tier" : "0"
+  },
+  { "value" : "2225",
+    "name" : "Ylighting",
+    "company_system_name" : "ylighting",
+    "tier" : "4"
+  },
+  { "value" : "2483",
+    "name" : "cushe",
+    "company_system_name" : "cushe",
+    "tier" : "3"
+  },
+  { "value" : "2518",
+    "name" : "eFaucets.com",
+    "company_system_name" : "efaucetscom",
+    "tier" : "5"
+  },
+  { "value" : "2078",
+    "name" : "eHarmony",
+    "company_system_name" : "eharmony",
+    "tier" : "1"
+  },
+  { "value" : "2038",
+    "name" : "iFloor",
+    "company_system_name" : "ifloor",
+    "tier" : "0"
+  },
+  { "value" : "2150",
+    "name" : "iGourmet",
+    "company_system_name" : "igourmet",
+    "tier" : "0"
+  },
+  { "value" : "2350",
+    "name" : "iRobot",
+    "company_system_name" : "irobot",
+    "tier" : "3"
+  },
+  { "value" : "2455",
+    "name" : "iStockphoto",
+    "company_system_name" : "istock_photos",
+    "tier" : "3"
+  },
+  { "value" : "2486",
+    "name" : "ld products",
+    "company_system_name" : "ld_products",
+    "tier" : "0"
+  },
+  { "value" : "2319",
+    "name" : "magicJack",
+    "company_system_name" : "magicjack",
+    "tier" : "4"
+  },
+  { "value" : "2370",
+    "name" : "optionsXpress",
+    "company_system_name" : "optionsxpress",
+    "tier" : "2"
+  },
+  { "value" : "2488",
+    "name" : "otel.com",
+    "company_system_name" : "otelcom",
+    "tier" : "5"
+  },
+  { "value" : "2441",
+    "name" : "rejuvenation",
+    "company_system_name" : "rejuvenation",
+    "tier" : "2"
+  },
+  { "value" : "2435",
+    "name" : "stoneberry",
+    "company_system_name" : "stoneberry",
+    "tier" : "3"
+  },
+  { "value" : "2474",
+    "name" : "symantec",
+    "company_system_name" : "symantec",
+    "tier" : "1"
+  },
+  { "value" : "2469",
+    "name" : "textbooks",
+    "company_system_name" : "textbooks",
+    "tier" : "3"
+  },
+  { "value" : "2502",
+    "name" : "usacares",
+    "company_system_name" : "usacares",
+    "tier" : "0"
+  },
+  { "value" : "2378",
+    "name" : "web_com",
+    "company_system_name" : "web_com",
+    "tier" : "2"
+  }
+]

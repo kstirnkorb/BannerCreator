@@ -1,0 +1,45 @@
+[ { "value" : 1,
+    "name" : "headline_text",
+    "id" : 1
+  },
+  { "value" : 2,
+    "name" : "subhead_text",
+    "id" : 2
+  },
+  { "value" : 3,
+    "name" : "cat_text",
+    "id" : 3
+  },
+  { "value" : 4,
+    "name" : "prod_text",
+    "id" : 4
+  },
+  { "value" : 5,
+    "name" : "promo_text",
+    "id" : 5
+  },
+  { "value" : 6,
+    "name" : "details_text",
+    "id" : 6
+  },
+  { "value" : 7,
+    "name" : "cta_text",
+    "id" : 7
+  },
+  { "value" : 8,
+    "name" : "price_text",
+    "id" : 8
+  },
+  { "value" : 9,
+    "name" : "sale_price_text",
+    "id" : 9
+  },
+  { "value" : 10,
+    "name" : "countdown_text",
+    "id" : 10
+  },
+  { "value" : 11,
+    "name" : "review_text",
+    "id" : 11
+  }
+]

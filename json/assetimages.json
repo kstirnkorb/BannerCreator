@@ -1,0 +1,241 @@
+[ { "company_id" : "2310",
+    "company_name" : "The Golf Warehouse",
+    "company_system_name" : "the_golf_warehouse",
+    "tier" : "2",
+	"images" : [
+					{	"category" : "Primary Ads",
+						"images" : [
+									{ "id" : 1, "path" : "../images/ads/2310/primary/image1.png" },
+									{ "id" : 2, "path" : "../images/ads/2310/primary/image2.png" },
+									{ "id" : 3, "path" : "../images/ads/2310/primary/image3.png" },
+									{ "id" : 4, "path" : "../images/ads/2310/primary/image4.png" },
+									{ "id" : 5, "path" : "../images/ads/2310/primary/image5.png" }
+								]	
+	
+					},
+					{	"category" : "Mobile Ads",
+						"images" : [
+									{ "id" : 6, "path" : "../images/ads/2310/mobile/image6.png" },
+									{ "id" : 7, "path" : "../images/ads/2310/mobile/image7.png" },
+									{ "id" : 8, "path" : "../images/ads/2310/mobile/image8.png" },
+									{ "id" : 9, "path" : "../images/ads/2310/mobile/image9.png" },
+									{ "id" : 10, "path" : "../images/ads/2310/mobile/image10.png" }
+								]	
+	
+					},
+					{	"category" : "Logo",
+						"images" : [
+									{ "id" : 11, "path" : "../images/ads/2310/logo/image11.png" },
+									{ "id" : 12, "path" : "../images/ads/2310/logo/image12.png" },
+									{ "id" : 13, "path" : "../images/ads/2310/logo/image13.png" }
+								]	
+	
+					},
+					{	"category" : "Button",
+						"images" : [
+									{ "id" : 14, "path" : "../images/ads/2310/button/image14.png" },
+									{ "id" : 15, "path" : "../images/ads/2310/button/image15.png" }
+								]	
+	
+					}
+				]
+  },
+  { "company_id" : "2122",
+    "company_name" : "Cabelas",
+    "company_system_name" : "cabelas",
+    "tier" : "1",
+	"images" : [
+					{	"category" : "Primary Ads",
+						"images" : [
+									{ "id" : 16, "path" : "../images/ads/2122/primary/image16.png" },
+									{ "id" : 17, "path" : "../images/ads/2122/primary/image17.png" },
+									{ "id" : 18, "path" : "../images/ads/2122/primary/image18.png" },
+									{ "id" : 19, "path" : "../images/ads/2122/primary/image19.png" },
+									{ "id" : 20, "path" : "../images/ads/2122/primary/image20.png" }
+								]	
+	
+					},
+					{	"category" : "Mobile Ads",
+						"images" : [
+									{ "id" : 21, "path" : "../images/ads/2122/mobile/image21.png" },
+									{ "id" : 22, "path" : "../images/ads/2122/mobile/image22.png" },
+									{ "id" : 23, "path" : "../images/ads/2122/mobile/image23.png" },
+									{ "id" : 24, "path" : "../images/ads/2122/mobile/image24.png" },
+									{ "id" : 25, "path" : "../images/ads/2122/mobile/image25.png" }
+								]	
+	
+					},
+					{	"category" : "Logo",
+						"images" : [
+									{ "id" : 26, "path" : "../images/ads/2122/logo/image26.png" },
+									{ "id" : 27, "path" : "../images/ads/2122/logo/image27.png" },
+									{ "id" : 28, "path" : "../images/ads/2122/logo/image28.png" }
+								]	
+	
+					},
+					{	"category" : "Button",
+						"images" : [
+									{ "id" : 29, "path" : "../images/ads/2122/button/image29.png" },
+									{ "id" : 30, "path" : "../images/ads/2122/button/image30.png" }
+								]	
+	
+					}
+				]
+  },
+  { "company_id" : "2427",
+    "company_name" : "Horchow",
+    "company_system_name" : "horchow",
+    "tier" : "1",
+	"images" : [
+					{	"category" : "Primary Ads",
+						"images" : [
+									{ "id" : 31, "path" : "../images/ads/2427/primary/image31.png" },
+									{ "id" : 32, "path" : "../images/ads/2427/primary/image32.png" },
+									{ "id" : 33, "path" : "../images/ads/2427/primary/image33.png" },
+									{ "id" : 34, "path" : "../images/ads/2427/primary/image34.png" },
+									{ "id" : 35, "path" : "../images/ads/2427/primary/image35.png" }
+								]	
+	
+					},
+					{	"category" : "Mobile Ads",
+						"images" : [
+									{ "id" : 36, "path" : "../images/ads/2427/mobile/image36.png" },
+									{ "id" : 37, "path" : "../images/ads/2427/mobile/image37.png" },
+									{ "id" : 38, "path" : "../images/ads/2427/mobile/image38.png" },
+									{ "id" : 39, "path" : "../images/ads/2427/mobile/image39.png" },
+									{ "id" : 40, "path" : "../images/ads/2427/mobile/image40.png" }
+								]	
+	
+					},
+					{	"category" : "Logo",
+						"images" : [
+									{ "id" : 41, "path" : "../images/ads/2427/logo/image41.png" },
+									{ "id" : 42, "path" : "../images/ads/2427/logo/image42.png" },
+									{ "id" : 43, "path" : "../images/ads/2427/logo/image43.png" }
+								]	
+	
+					},
+					{	"category" : "Button",
+						"images" : [
+									{ "id" : 44, "path" : "../images/ads/2427/button/image44.png" },
+									{ "id" : 45, "path" : "../images/ads/2427/button/image45.png" }
+								]	
+	
+					}
+				]
+  },
+  { "company_id" : "2461",
+    "company_name" : "Novica",
+    "company_system_name" : "novica",
+    "tier" : "5",
+	"images" : [
+					{	"category" : "Primary Ads",
+						"images" : [
+									{ "id" : 46, "path" : "../images/ads/2461/primary/image46.png" },
+									{ "id" : 47, "path" : "../images/ads/2461/primary/image47.png" },
+									{ "id" : 48, "path" : "../images/ads/2461/primary/image48.png" },
+									{ "id" : 49, "path" : "../images/ads/2461/primary/image49.png" },
+									{ "id" : 50, "path" : "../images/ads/2461/primary/image50.png" }
+								]	
+	
+					},
+					{	"category" : "Mobile Ads",
+						"images" : [
+									{ "id" : 51, "path" : "../images/ads/2461/mobile/image51.png" },
+									{ "id" : 52, "path" : "../images/ads/2461/mobile/image52.png" },
+									{ "id" : 53, "path" : "../images/ads/2461/mobile/image53.png" },
+									{ "id" : 54, "path" : "../images/ads/2461/mobile/image54.png" },
+									{ "id" : 55, "path" : "../images/ads/2461/mobile/image55.png" }
+								]	
+	
+					},
+					{	"category" : "Logo",
+						"images" : [
+									{ "id" : 56, "path" : "../images/ads/2461/logo/image56.png" },
+									{ "id" : 57, "path" : "../images/ads/2461/logo/image57.png" },
+									{ "id" : 58, "path" : "../images/ads/2461/logo/image58.png" }
+								]	
+	
+					},
+					{	"category" : "Button",
+						"images" : [
+									{ "id" : 59, "path" : "../images/ads/2461/button/image59.png" },
+									{ "id" : 60, "path" : "../images/ads/2461/button/image60.png" }
+								]	
+	
+					}
+				]
+  },
+  { "company_id" : "2220",
+    "company_name" : "Pottery Barn",
+    "company_system_name" : "potterybarn",
+    "tier" : "1",
+	"images" : [
+					{	"category" : "Primary Ads",
+						"images" : [
+									{ "id" : 61, "path" : "../images/ads/2220/primary/image61.png" },
+									{ "id" : 62, "path" : "../images/ads/2220/primary/image62.png" },
+									{ "id" : 63, "path" : "../images/ads/2220/primary/image63.png" },
+									{ "id" : 64, "path" : "../images/ads/2220/primary/image64.png" },
+									{ "id" : 65, "path" : "../images/ads/2220/primary/image65.png" }
+								]	
+	
+					},
+					{	"category" : "Mobile Ads",
+						"images" : [
+									{ "id" : 66, "path" : "../images/ads/2220/mobile/image66.png" },
+									{ "id" : 67, "path" : "../images/ads/2220/mobile/image67.png" },
+									{ "id" : 68, "path" : "../images/ads/2220/mobile/image68.png" },
+									{ "id" : 69, "path" : "../images/ads/2220/mobile/image69.png" },
+									{ "id" : 70, "path" : "../images/ads/2220/mobile/image70.png" }
+								]	
+	
+					},
+					{	"category" : "Logo",
+						"images" : [
+									{ "id" : 71, "path" : "../images/ads/2220/logo/image71.png" },
+									{ "id" : 72, "path" : "../images/ads/2220/logo/image72.png" },
+									{ "id" : 73, "path" : "../images/ads/2220/logo/image73.png" }
+								]	
+	
+					},
+					{	"category" : "Button",
+						"images" : [
+									{ "id" : 74, "path" : "../images/ads/2220/button/image74.png" },
+									{ "id" : 75, "path" : "../images/ads/2220/button/image75.png" }
+								]	
+	
+					}
+				]
+  },
+   { "company_id" : "2437",
+    "company_name" : "CB2",
+    "company_system_name" : "cb2",
+    "tier" : "1",
+	"images" : [
+					{	"category" : "Primary Ads",
+						"images" : [
+									{ "id" : 76, "path" : "../images/ads/2437/primary/image76.png" },
+									{ "id" : 77, "path" : "../images/ads/2437/primary/image77.jpg" },
+									{ "id" : 78, "path" : "../images/ads/2437/primary/image78.png" },
+									{ "id" : 79, "path" : "../images/ads/2437/primary/image79.png" }
+								]	
+	
+					},
+					{	"category" : "Mobile Ads",
+						"images" : []	
+	
+					},
+					{	"category" : "Logo",
+						"images" : [
+									{ "id" : 80, "path" : "../images/ads/2437/logo/image80.png" }
+								]	
+	
+					},
+					{	"category" : "Button",
+						"images" : []	
+	
+					}
+				]
+  }
+]

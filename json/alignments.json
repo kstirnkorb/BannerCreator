@@ -1,0 +1,13 @@
+[ { "value" : "alignLeft",
+    "name" : "left",
+    "id" : 1
+  },
+  { "value" : "alignCenter",
+    "name" : "center",
+    "id" : 2
+  },
+  { "value" : "alignRight",
+    "name" : "right",
+    "id" : 3
+  }
+]

@@ -1,0 +1,45 @@
+#logInSection {
+	padding-top:100px;
+	width:320px;
+	margin:0 auto;
+	display:none;
+	color:#CCCCCC;
+}
+#logInContainer {
+	width:270px;
+	min-height:150px;
+	border:1px solid #434343;
+	padding:25px;
+	border-top-left-radius:20px;
+	border-top-right-radius:5px;
+}
+#logInContainer input {
+	width:240px;
+}
+#logInContainer select {
+	width:250px;
+}
+#logInContainer .logInCol {
+	width:270px;
+	float:left;
+	margin-right:16px;
+}
+#logInContainer .colContentPadding {
+	padding-left:15px;
+}
+#logInContainer .header {
+	height:26px;
+	background-color:#434343;
+	font-size:1.25em;
+	font-weight:bold;
+	color:#CCCCCC;
+	padding-left:8px;
+	padding-top:6px;
+	margin-bottom:8px;
+}
+.stdHeaderWidth {
+	width:270px;
+}
+.logInButtonContainer {
+	padding-left:110px;
+}

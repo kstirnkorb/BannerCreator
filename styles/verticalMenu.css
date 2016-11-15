@@ -1,0 +1,56 @@
+.verticalMenuHeader {
+	font-size:0.95em;
+	font-weight:bold;
+	color:#000000;
+	margin-bottom:5px;
+}
+.verticalMenuMenuItem {
+	height:19px;
+	cursor:pointer;
+}
+.verticalMenuMenuItem a {
+	color:#000000;
+	text-decoration:none;
+}
+.verticalMenuMenuItemHidden {
+	display:none;
+}
+.verticalMenuMenuItem:hover {
+	height:19px;
+	background-color:#C8DDE5;
+}
+.verticalMenuMenuItemLabel {
+	font-size:0.85em;
+	float:left;
+	padding-left:2px;
+}
+.verticalMenuMenuIconFolder {
+	width:26px;
+	height:19px;
+	background:url('../images/menuIconFolder.png') 0 -19px;
+	background-repeat:no-repeat;
+	float:left;
+}
+.verticalMenuMenuIconFolderActive {
+	width:26px;
+	height:19px;
+	background:url('../images/menuIconFolder.png') 0 0px;
+	background-repeat:no-repeat;
+	float:left;
+}
+.verticalMenuMenuIconGlobe {
+	width:26px;
+	height:19px;
+	background:url('../images/menuIconGlobe.png') 0px 0px;
+	background-repeat:no-repeat;
+	float:left;
+}
+.verticalMenuMenuItemLevel1 {
+	padding-left:0px;
+}
+.verticalMenuMenuItemLevel2 {
+	padding-left:12px;
+}
+.verticalMenuMenuItemLevel3 {
+	padding-left:24px;
+}

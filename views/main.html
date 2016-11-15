@@ -1,0 +1,81 @@
+<div id="btnLeftSlideToggle" class="off" style="display:none;" ng-controller="LeftnavCtrl"></div>
+
+<div id="leftSlideContainer" ng-controller="LeftnavCtrl">
+	<div id="navMenu"></div>         
+</div>
+
+<div id="masthead">
+	<div class="mainTitle">{{ loc[0].LOG_IN_MASTHEAD_TITLE }}</div>
+    <div class="mainLogo" title="{{ loc[0].APP_NAME }}"></div>
+</div>
+
+<!-- Begin Log In section. -->
+<div id="logInSection">
+	<div id="logInContainer">
+        <div class="logInCol">
+        	<div class="header stdHeaderWidth">
+                {{ loc[0].LOG_IN_HEADER_CREDENTIALS }}
+            </div>
+            <div class="colContentPadding"> 
+                {{ loc[0].LOG_IN_USER_NAME }}<br />
+                <input id="logInUserName" maxlength="25">
+            </div>
+            <div class="colContentPadding"> 
+                {{ loc[0].LOG_IN_PASSWORD }}<br />
+                <input id="logInPassword" type="password" maxlength="25">
+            </div>
+    	</div>     
+        <br style="clear:both;" />          
+	</div>
+    <br />
+    <div class="logInButtonContainer">
+    	<div id="logInSubmitBtn" class="bigBtnBG">{{ loc[0].LOG_IN_BTN_LOG_IN }}</div>
+    </div>            
+</div>
+<!-- End Log In section. -->         
+
+<!-- Begin Main section. -->
+<div id="topNav" style="display:none;" ng-controller="TopnavCtrl">
+	<div class="leftSpacer">&nbsp;</div>
+    <div class="link" id="menuFile" title="{{ loc[0].APP_FILE }}">{{ loc[0].APP_FILE }}</div>
+    	<div class="subMenu">
+        	<div class="subLink">New Project</div>
+            <div class="subLink">New Ad</div>
+            <div class="subMenuDivider"></div>
+            <div class="subLink">Open Project</div>
+        </div>
+    <div class="link" id="menuEdit" title="{{ loc[0].APP_EDIT }}">{{ loc[0].APP_EDIT }}</div>
+    	<div class="subMenu">
+        	<div class="subLink">Undo</div>
+            <div class="subLink">Redo</div>
+            <div class="subMenuDivider"></div>
+            <div class="subLink">Cut</div>
+            <div class="subLink">Copy</div>
+            <div class="subLink">Copy JSON</div>
+            <div class="subMenuDivider"></div>
+            <div class="subLink">Paste</div>
+            <div class="subLink">Clear</div>
+            <div class="subLink">Selecte All</div>
+        </div>
+    <div class="link" id="menuView" title="{{ loc[0].APP_VIEW }}">{{ loc[0].APP_VIEW }}</div>
+    <div class="link" id="menuTools" title="{{ loc[0].APP_TOOLS }}">{{ loc[0].APP_TOOLS }}</div>
+    	<div class="subMenu">
+        	<div class="subLink">Advantage</div>
+            <div class="subLink">Zisa</div>
+        </div>
+    <div class="link" id="menuHelp" title="{{ loc[0].APP_HELP }}">{{ loc[0].APP_HELP }}</div>
+    <div class="divider"></div>
+    <div class="link" id="logOut" title="{{ loc[0].APP_LOG_OUT }}" ng-controller="LogoutCtrl">{{ loc[0].APP_LOG_OUT }}</div>
+    <div class="link" id="save" title="{{ loc[0].APP_SAVE }}">{{ loc[0].APP_SAVE }}</div>
+</div>
+
+<div id="mainContainer" ng-controller="MainCtrl">
+    <div id="leftContainer" ng-controller="AdcontainerCtrl">
+    	<div id="adContainerWrapper">
+        	<!-- The "adContainer" container holds all of the ads. -->
+            <div id="adContainer" style="float:left; position:relative;"></div>   
+            <div class="containerClear"></div>
+        </div>       
+    </div>
+</div>    
+<!-- End Main section. -->

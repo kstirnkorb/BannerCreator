@@ -1,0 +1,2142 @@
+[
+{ 
+	"id" : 1,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 0,
+	"layoutYPos" : 0,
+	"adSize" : "728X90",
+	"adSizeWidth" : 728,
+	"adSizeHeight" : 90,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "36px",
+				"_line-height" : "36px",
+				"_font-weight" : "bold",
+				"_left" : "325px",
+				"_top" : "2px",
+				"_width" : "380px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "24px",
+				"_line-height" : "24px",
+				"_font-weight" : "bold",
+				"_left" : "325px",
+				"_top" : "35px",
+				"_width" : "380px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "14px",
+				"_line-height" : "14px",
+				"_font-weight" : "bold",
+				"_left" : "325px",
+				"_top" : "60px",
+				"_width" : "225px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "22px",
+				"_line-height" : "22px",
+				"_font-weight" : "bold",
+				"_left" : "550px",
+				"_top" : "65px",
+				"_width" : "175px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "16px",
+				"_line-height" : "16px",
+				"_font-weight" : "bold",
+				"_left" : "590px",
+				"_top" : "30px",
+				"_width" : "130px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 2,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 760,
+	"layoutYPos" : 0,
+	"adSize" : "300X250",
+	"adSizeWidth" : 300,
+	"adSizeHeight" : 250,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "30px",
+				"_line-height" : "30px",
+				"_font-weight" : "bold",
+				"_left" : "6px",
+				"_top" : "170px",
+				"_width" : "150px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "22px",
+				"_line-height" : "22px",
+				"_font-weight" : "bold",
+				"_left" : "6px",
+				"_top" : "130px",
+				"_width" : "150px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "6px",
+				"_top" : "195px",
+				"_width" : "150px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "19px",
+				"_line-height" : "19px",
+				"_font-weight" : "bold",
+				"_left" : "10px",
+				"_top" : "230px",
+				"_width" : "178px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "16px",
+				"_line-height" : "16px",
+				"_font-weight" : "bold",
+				"_left" : "180px",
+				"_top" : "140px",
+				"_width" : "100px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 3,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 0,
+	"layoutYPos" : 112,
+	"adSize" : "468X60",
+	"adSizeWidth" : 468,
+	"adSizeHeight" : 60,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "29px",
+				"_line-height" : "29px",
+				"_font-weight" : "bold",
+				"_left" : "220px",
+				"_top" : "2px",
+				"_width" : "225px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "220px",
+				"_top" : "30px",
+				"_width" : "225px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "14px",
+				"_line-height" : "14px",
+				"_font-weight" : "bold",
+				"_left" : "220px",
+				"_top" : "45px",
+				"_width" : "225px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "15px",
+				"_line-height" : "15px",
+				"_font-weight" : "bold",
+				"_left" : "365px",
+				"_top" : "45px",
+				"_width" : "100px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "13px",
+				"_line-height" : "13px",
+				"_font-weight" : "bold",
+				"_left" : "390px",
+				"_top" : "17px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 4,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 564,
+	"layoutYPos" : 112,
+	"adSize" : "180X150",
+	"adSizeWidth" : 180,
+	"adSizeHeight" : 150,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "24px",
+				"_line-height" : "24px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "85px",
+				"_width" : "170px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "70px",
+				"_width" : "170px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "14px",
+				"_line-height" : "14px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "105px",
+				"_width" : "170px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "16px",
+				"_line-height" : "16px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "134px",
+				"_width" : "125px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "13px",
+				"_line-height" : "13px",
+				"_font-weight" : "bold",
+				"_left" : "105px",
+				"_top" : "120px",
+				"_width" : "70px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 5,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 0,
+	"layoutYPos" : 204,
+	"adSize" : "320X50",
+	"adSizeWidth" : 320,
+	"adSizeHeight" : 50,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "20px",
+				"_line-height" : "20px",
+				"_font-weight" : "bold",
+				"_left" : "160px",
+				"_top" : "2px",
+				"_width" : "150px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "15px",
+				"_line-height" : "15px",
+				"_font-weight" : "bold",
+				"_left" : "160px",
+				"_top" : "25px",
+				"_width" : "150px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : false,
+			"visible" : false,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "100px",
+				"_top" : "15px",
+				"_width" : "110px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : false,
+			"visible" : false,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "100px",
+				"_top" : "15px",
+				"_width" : "10px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "11px",
+				"_line-height" : "11px",
+				"_font-weight" : "bold",
+				"_left" : "260px",
+				"_top" : "15px",
+				"_width" : "58px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 6,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 334,
+	"layoutYPos" : 204,
+	"adSize" : "216X36",
+	"adSizeWidth" : 216,
+	"adSizeHeight" : 36,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "16px",
+				"_line-height" : "16px",
+				"_font-weight" : "bold",
+				"_left" : "100px",
+				"_top" : "2px",
+				"_width" : "110px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "100px",
+				"_top" : "15px",
+				"_width" : "110px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : false,
+			"visible" : false,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "100px",
+				"_top" : "15px",
+				"_width" : "110px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : false,
+			"visible" : false,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "100px",
+				"_top" : "15px",
+				"_width" : "10px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "8px",
+				"_line-height" : "8px",
+				"_font-weight" : "bold",
+				"_left" : "170px",
+				"_top" : "12px",
+				"_width" : "45px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 7,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 0,
+	"layoutYPos" : 290,
+	"adSize" : "160X600",
+	"adSizeWidth" : 160,
+	"adSizeHeight" : 600,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "30px",
+				"_line-height" : "30px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "440px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "22px",
+				"_line-height" : "22px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "470px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "400px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "580px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "14px",
+				"_line-height" : "14px",
+				"_font-weight" : "bold",
+				"_left" : "80px",
+				"_top" : "550px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 8,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 180,
+	"layoutYPos" : 290,
+	"adSize" : "120X600",
+	"adSizeWidth" : 120,
+	"adSizeHeight" : 600,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "30px",
+				"_line-height" : "30px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "440px",
+				"_width" : "116px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "22px",
+				"_line-height" : "22px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "500px",
+				"_width" : "116px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "400px",
+				"_width" : "115px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "580px",
+				"_width" : "116px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "14px",
+				"_line-height" : "14px",
+				"_font-weight" : "bold",
+				"_left" : "80px",
+				"_top" : "550px",
+				"_width" : "72px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 9,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 320,
+	"layoutYPos" : 290,
+	"adSize" : "300X600",
+	"adSizeWidth" : 300,
+	"adSizeHeight" : 600,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "30px",
+				"_line-height" : "30px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "440px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "22px",
+				"_line-height" : "22px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "470px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "400px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "3px",
+				"_top" : "580px",
+				"_width" : "152px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "14px",
+				"_line-height" : "14px",
+				"_font-weight" : "bold",
+				"_left" : "80px",
+				"_top" : "550px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+},
+{ 
+	"id" : 10,
+	"active" : true,
+	"createdBy" : "John Doe",
+	"createdDate" : "01-21-2014 12:00 PM",
+	"modifiedBy" : "John Doe",
+	"modifiedDate" : "01-21-2014 12:00 PM",
+	"layoutXPos" : 640,
+	"layoutYPos" : 290,
+	"adSize" : "320X480",
+	"adSizeWidth" : 320,
+	"adSizeHeight" : 480,
+	"backgroundColor" : "#FFFFFF",
+  	"adElements" : [
+		{
+			"id" : 1,
+			"name" : "headline_text",
+			"type" : "text",
+			"value" : "SAVE BIG",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "30px",
+				"_line-height" : "30px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "140px",
+				"_width" : "200px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 2,
+			"name" : "subhead_text",
+			"type" : "text",
+			"value" : "On orders over $50",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "22px",
+				"_line-height" : "22px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "170px",
+				"_width" : "200px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 3,
+			"name" : "cat_text",
+			"type" : "text",
+			"value" : "You'll love the selection!",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "18px",
+				"_line-height" : "18px",
+				"_font-weight" : "bold",
+				"_left" : "5px",
+				"_top" : "370px",
+				"_width" : "170px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 4,
+			"name" : "prod_text",
+			"type" : "text",
+			"value" : "All items",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 5,
+			"name" : "promo_text",
+			"type" : "text",
+			"value" : "Many selections",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "10px",
+				"_line-height" : "10px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 6,
+			"name" : "details_text",
+			"type" : "text",
+			"value" : "See Details*",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "20px",
+				"_line-height" : "20px",
+				"_font-weight" : "bold",
+				"_left" : "180px",
+				"_top" : "140px",
+				"_width" : "130px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 7,
+			"name" : "cta_text",
+			"type" : "text",
+			"value" : "Shop Now",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "16px",
+				"_line-height" : "16px",
+				"_font-weight" : "bold",
+				"_left" : "125px",
+				"_top" : "350px",
+				"_width" : "110px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 8,
+			"name" : "price_text",
+			"type" : "text",
+			"value" : "$100.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 9,
+			"name" : "sale_price_text",
+			"type" : "text",
+			"value" : "Now only $80.00",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 10,
+			"name" : "countdown_text",
+			"type" : "text",
+			"value" : "5 DAYS LEFT",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		},
+		{
+			"id" : 11,
+			"name" : "review_text",
+			"type" : "text",
+			"value" : "(6 REVIEWS)",
+			"active" : true,
+			"visible" : true,
+			"config" : {
+				"_font-family" : "Arial, Helvetica, sans-serif",
+				"_font-size" : "9px",
+				"_line-height" : "9px",
+				"_font-weight" : "bold",
+				"_left" : "1px",
+				"_top" : "1px",
+				"_width" : "75px",
+				"_color" : "#333333"
+				}
+		}
+	]	
+}
+]

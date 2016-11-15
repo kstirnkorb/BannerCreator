@@ -1,0 +1,215 @@
+[ { "value" : "adSizeCustom",
+    "name" : "Custom...",
+    "id" : 1,
+	"description" : []
+  },
+  { "value" : "adSize728X90",
+    "name" : "728 X 90",
+    "id" : 2,
+	"description" : [
+						{ "name" : "Leaderboard", "category" : "desktop", "type" : "any" },
+						{ "name" : "Tablet Leaderboard", "category" : "mobile (tablet)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize300X250",
+    "name" : "300 X 250",
+    "id" : 3,
+	"description" : [ 
+						{ "name" : "Square", "category" : "desktop", "type" : "any" },
+						{ "name" : "Medium Rectangle", "category" : "mobile (HTML)", "type" : "any" },
+						{ "name" : "Tablet Medium", "category" : "mobile (tablet)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize468X60",
+    "name" : "468 X 60",
+    "id" : 4,
+	"description" : [ 
+						{ "name" : "Full Banner", "category" : "desktop" }
+					]
+  },
+  { "value" : "adSize320X50",
+    "name" : "320 X 50",
+    "id" : 5,
+	"description" : [ 
+						{ "name" : "Mobile Leaderboard", "category" : "mobile (HTML)", "type" : "any" },
+						{ "name" : "Mobile Expandable Banner", "category" : "mobile (HTML)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize216X36",
+    "name" : "216 X 36",
+    "id" : 6,
+	"description" : [ 
+						{ "name" : "Mobile 6:1 Image", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize180X150",
+    "name" : "180 X 150",
+    "id" : 7,
+	"description" : [ 
+						{ "name" : "Rectangle", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize160X600",
+    "name" : "160 X 600",
+    "id" : 8,
+	"description" : [ 
+						{ "name" : "Skyscraper", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize120X600",
+    "name" : "120 X 600",
+    "id" : 9,
+	"description" : [ 
+						{ "name" : "Skyscraper", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize300X600",
+    "name" : "300 X 600",
+    "id" : 10,
+	"description" : [ 
+						{ "name" : "Half Page Banner", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize320X480",
+    "name" : "320 X 480",
+    "id" : 11,
+	"description" : [ 
+						{ "name" : "Mobile Large", "category" : "mobile (HTML)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize320X100",
+    "name" : "320 X 100",
+    "id" : 12,
+	"description" : [ 
+						{ "name" : "Large Mobile Banner", "category" : "mobile (HTML)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize300X50",
+    "name" : "300 X 50",
+    "id" : 13,
+	"description" : [ 
+						{ "name" : "Mobile 6:1 Image", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize480X80",
+    "name" : "480 X 80",
+    "id" : 14,
+	"description" : [ 
+						{ "name" : "Mobile Banner", "category" : "mobile (html)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize320X480",
+    "name" : "320 X 480",
+    "id" : 15,
+	"description" : [ 
+						{ "name" : "Mobile Interstitial", "category" : "mobile (html)", "type" : "any" },
+						{ "name" : "Mobile Click To Video", "category" : "mobile (html)", "type" : "video" }
+					]
+  },
+  { "value" : "adSize336X280",
+    "name" : "336 X 280",
+    "id" : 16,
+	"description" : [ 
+						{ "name" : "Square", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize250X250",
+    "name" : "250 X 250",
+    "id" : 17,
+	"description" : [ 
+						{ "name" : "Square", "category" : "desktop", "type" : "any" },
+						{ "name" : "Mobile Square", "category" : "mobile (html)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize200X200",
+    "name" : "200 X 200",
+    "id" : 18,
+	"description" : [ 
+						{ "name" : "Mobile Small Square", "category" : "mobile (html)", "type" : "any" }
+					]
+  },
+  { "value" : "adSize168X28",
+    "name" : "168 X 28",
+    "id" : 19,
+	"description" : [ 
+						{ "name" : "Mobile 6:1 Image", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize192X53",
+    "name" : "192 X 53",
+    "id" : 20,
+	"description" : [ 
+						{ "name" : "Mobile 6:1 Image (Japan Std)", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize300X75",
+    "name" : "300 X 75",
+    "id" : 21,
+	"description" : [ 
+						{ "name" : "Mobile 4:1 Image", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize216X54",
+    "name" : "216 X 54",
+    "id" : 22,
+	"description" : [ 
+						{ "name" : "Mobile 4:1 Image", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize168X42",
+    "name" : "168 X 42",
+    "id" : 23,
+	"description" : [ 
+						{ "name" : "Mobile 4:1 Image", "category" : "mobile (WAP/i-mode)", "type" : "image" }
+					]
+  },
+  { "value" : "adSize120X240",
+    "name" : "120 X 240",
+    "id" : 24,
+	"description" : [ 
+						{ "name" : "Small Skyscraper", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize240X400",
+    "name" : "240 X 400",
+    "id" : 25,
+	"description" : [ 
+						{ "name" : "Fat Skyscraper", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize234X60",
+    "name" : "234 X 60",
+    "id" : 26,
+	"description" : [ 
+						{ "name" : "Half Banner", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize125X125",
+    "name" : "125 X 125",
+    "id" : 27,
+	"description" : [ 
+						{ "name" : "Square Button", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize120X90",
+    "name" : "120 X 90",
+    "id" : 28,
+	"description" : [ 
+						{ "name" : "Button", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize120X60",
+    "name" : "120 X 60",
+    "id" : 29,
+	"description" : [ 
+						{ "name" : "Button", "category" : "desktop", "type" : "any" }
+					]
+  },
+  { "value" : "adSize88X31",
+    "name" : "88 X 31",
+    "id" : 30,
+	"description" : [ 
+						{ "name" : "Button", "category" : "desktop", "type" : "any" }
+					]
+  }
+]

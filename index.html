@@ -1,0 +1,129 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css({.tmp,app}) styles/main.css -->
+
+	<link rel="stylesheet" href="bower_components/bootstrap-colorpicker/css/colorpicker.css" />
+    <link rel="stylesheet" href="themes/base/jquery.ui.all.css">
+    <link rel="stylesheet" href="styles/bootstrap.css">
+    <link rel="stylesheet" href="styles/verticalMenu.css">
+
+    <link rel="stylesheet" href="styles/logIn.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/newAd.css">
+    <!-- endbuild -->
+  </head>
+  
+  <!-- oncontextmenu="return false; -->
+  
+  <body id="indexBody" ng-app="gepettoApp" ng-controller="LocalizationCtrl">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+	<div id="appStatus" style="display:none;" ng-controller="DevCtrl">{{ appStatus }}</div>
+
+    <!-- Add your site or application content here -->
+    <div ng-view="" ng-controller="AppresizeCtrl"></div>
+
+
+    <!--[if lt IE 9]>
+    <script src="bower_components/es5-shim/es5-shim.js"></script>
+    <script src="bower_components/json3/lib/json3.min.js"></script>
+    <![endif]-->
+    
+    <script src="bower_components/jquery/jquery.js"></script>
+    <script src="bower_components/jquery/jquery.min.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery.ui.core.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery.ui.widget.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery.ui.mouse.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery.ui.draggable.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery.ui.resizable.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery.ui.datepicker.js"></script>
+	<script src="bower_components/jquery-ui/ui/jquery.ui.sortable.js"></script>     
+
+    <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/greensock-js/src/minified/TweenMax.min.js"></script>
+    <script src="bower_components/greensock-js/src/minified/utils/Draggable.min.js"></script>
+    <script src="bower_components/jquery-ui/ui/jquery-ui.js"></script>
+    <script src="bower_components/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script>
+    <script src="bower_components/bootstrap-colorpicker/css/colorpicker.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js({.tmp,app}) scripts/scripts.js -->
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers/main.js"></script>
+    <script src="scripts/controllers/localization.js"></script>
+    <script src="scripts/controllers/dev.js"></script>
+    <script src="scripts/services/localizationservice.js"></script>
+    <script src="scripts/services/devservice.js"></script>
+    <script src="scripts/controllers/view.js"></script>
+    <script src="scripts/controllers/login.js"></script>
+    <script src="scripts/controllers/adcontainer.js"></script>
+    <script src="scripts/controllers/leftnav.js"></script>
+    <script src="scripts/controllers/logout.js"></script>
+    <script src="scripts/controllers/adpalettecontainer.js"></script>
+    <script src="scripts/controllers/appresize.js"></script>
+    <script src="scripts/controllers/animation.js"></script>
+    <script src="scripts/controllers/newad.js"></script>
+    <script src="scripts/controllers/topnav.js"></script>
+    <script src="scripts/controllers/adproperties.js"></script>
+    <script src="scripts/controllers/textassets.js"></script>
+    <script src="scripts/controllers/imageassets.js"></script>
+    <script src="scripts/controllers/adsizes.js"></script>
+    <script src="scripts/services/adsizesservice.js"></script>
+    <script src="scripts/services/companyservice.js"></script>
+    <script src="scripts/controllers/companies.js"></script>
+    <script src="scripts/controllers/adassets.js"></script>
+    <script src="scripts/controllers/adname.js"></script>
+    <script src="scripts/controllers/contexteffects.js"></script>
+    <script src="scripts/controllers/contextanimation.js"></script>
+    <script src="scripts/controllers/fonts.js"></script>
+    <script src="scripts/services/fontservice.js"></script>
+    <script src="scripts/services/alignmentservice.js"></script>
+    <script src="scripts/controllers/alignment.js"></script>
+    <script src="scripts/controllers/contextpalette.js"></script>
+    <script src="scripts/controllers/color.js"></script>
+    <script src="scripts/controllers/assignment.js"></script>
+    <script src="scripts/services/assignmentservice.js"></script>
+    <script src="scripts/controllers/edittext.js"></script>
+    <script src="scripts/controllers/editbutton.js"></script>
+    <script src="scripts/controllers/editimage.js"></script>
+    <script src="scripts/controllers/editvideo.js"></script>
+    <script src="scripts/controllers/editgallery.js"></script>
+    <script src="scripts/controllers/editcarousel.js"></script>
+    <script src="scripts/controllers/editsymbol.js"></script>
+    <script src="scripts/controllers/editlogo.js"></script>
+    <script src="scripts/controllers/movecontrol.js"></script>
+    <script src="scripts/controllers/imageupload.js"></script>
+    <script src="scripts/services/assetimageservice.js"></script>
+    <script src="scripts/controllers/assetimages.js"></script>
+    <script src="scripts/controllers/globalimages.js"></script>
+    <script src="scripts/services/globalimageservice.js"></script>
+    <script src="scripts/controllers/adcolor.js"></script>
+    <script src="scripts/controllers/adalignment.js"></script>
+    <script src="scripts/controllers/adlayers.js"></script>
+    <!-- endbuild -->      
+        
+</body>
+</html>

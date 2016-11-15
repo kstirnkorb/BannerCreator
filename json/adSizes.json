@@ -1,0 +1,45 @@
+[ { "value" : "adSizeCustom",
+    "name" : "Custom...",
+    "id" : 1
+  },
+  { "value" : "adSize728X90",
+    "name" : "728 X 90",
+    "id" : 2
+  },
+  { "value" : "adSize300X250",
+    "name" : "300 X 250",
+    "id" : 3
+  },
+  { "value" : "adSize468X60",
+    "name" : "468 X 60",
+    "id" : 4
+  },
+  { "value" : "adSize320X50",
+    "name" : "320 X 50",
+    "id" : 5
+  },
+  { "value" : "adSize216X36",
+    "name" : "216 X 36",
+    "id" : 6
+  },
+  { "value" : "adSize180X150",
+    "name" : "180 X 150",
+    "id" : 7
+  },
+  { "value" : "adSize160X600",
+    "name" : "160 X 600",
+    "id" : 8
+  },
+  { "value" : "adSize120X600",
+    "name" : "120 X 600",
+    "id" : 9
+  },
+  { "value" : "adSize300X600",
+    "name" : "300 X 600",
+    "id" : 10
+  },
+  { "value" : "adSize320X480",
+    "name" : "320 X 480",
+    "id" : 11
+  }
+]

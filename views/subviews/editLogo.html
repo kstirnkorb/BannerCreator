@@ -1,0 +1,50 @@
+<div id="editLogo" ng-controller="EditlogoCtrl">
+	<div class="inputContainer">
+        <div class="sizeLink" style="float:left; margin-top:25px;"></div>
+        <div style="float:right;">
+            <div class="topLabel">{{ loc[0].NEW_AD_WIDTH }}</div>
+            <input id="logoAssetWidth" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+            <div class="topLabel">{{ loc[0].NEW_AD_HEIGHT }}</div>
+            <input id="logoAssetHeight" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+        </div>
+    </div>
+    <div class="inputContainer">
+        <div class="topLabel">{{ loc[0].NEW_AD_X }}</div>
+        <input id="logoAssetX" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+    </div>
+    <div class="inputContainer">
+    	<div class="topLabel">{{ loc[0].NEW_AD_IMAGE_ASSIGNMENT }}</div>
+        <select id="logoAssetImage" class="imageSelectBox" ng-controller="AssetimagesCtrl">
+        	<option value="n/a">{{ loc[0].NEW_AD_SELECT_IMAGE }}</option>
+            <option ng-repeat="obj in companyLogoImages | filter:companyId" value="{{obj.id}}">{{obj.path}}</option>
+        </select>
+    </div>
+    <div class="inputContainer">    
+        <div class="topLabel">{{ loc[0].NEW_AD_Y }}</div>
+        <input id="logoAssetY" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+    </div>
+    <div class="inputContainer extraRightMargin">    
+        <div class="topLabel">{{ loc[0].NEW_AD_LAYER }}</div>
+        <input id="logoAssetLayer" maxlength="3" class="adAssetSmallInput" ng-model="logoAssetLayerDefault">
+    </div>
+    <div class="imageAssetThumbContainer">
+    	<div class="imageAssetThumb" ng-controller="AssetimagesCtrl"></div>
+        <img id="logoActualImageAssetThumb" style="display:none;" />
+        <div class="imageScaleBtn"></div> 
+    </div> 
+    <div class="inputContainer marginLeft15" ng-controller="MovecontrolCtrl">
+        <!--
+        <div class="inputContainer">
+            <div class="topLabel">{{ loc[0].NEW_AD_ASSIGNMENT }}</div>
+            <select class="assignmentSelectBox" ng-controller="AssignmentCtrl" style="width:250px;">
+                <option ng-repeat="obj in assignments" value="{{obj.value}}">{{obj.name}}</option>
+            </select>
+        </div>
+        -->
+        <div class="iconTrash"></div>
+        <div class="editRndBtn moveUp"></div>
+        <div class="editRndBtn moveRight"></div>
+        <div class="editRndBtn moveDown"></div>
+        <div class="editRndBtn moveLeft"></div>  
+    </div>
+</div>    

@@ -1,0 +1,203 @@
+<!--Begin Modal section. -->
+<div id="newAdOverlay"></div>
+
+	<div class="btnModalClose"></div>
+
+    <!-- Message section. -->
+    <div id="overlayMessage">
+        <div id="userMessage" class="userMessageCopy"></div>
+        <br />        
+    </div>
+<!--End Modal section. -->
+
+<div class="newAdMasthead">
+	<div class="newAdTitle">{{ loc[0].NEW_AD_MASTHEAD_TITLE }}</div>
+    <div class="newAdLogo" title="{{ loc[0].APP_NAME }}"></div>
+</div>
+
+<div id="newAdWrapper" ng-controller="AdassetsCtrl">
+
+	<!-- LEFT SIDE. -->
+	
+    <div class="newAdSideSectionContainer">
+        <div id="adProperties" class="newAdSideSection" ng-controller="AdpropertiesCtrl">
+            <div class="subHeader">
+                <div class="subHeaderCopy">{{ loc[0].NEW_AD_PROPERTIES }}</div>
+            </div>
+            <div class="subSectionContent">
+                <div class="containerPadding">
+                    <div class="inputContainer" ng-controller="AdsizesCtrl">
+                        <div class="topLabel">{{ loc[0].NEW_AD_SIZE }}</div>
+                        <select class="adSizeSelectBox">
+                            <option ng-repeat="obj in adSizes" value="{{obj.value}}">{{obj.name}}</option>
+                        </select>
+                    </div>
+                    <div class="inputContainer">
+                        <div class="topLabel">{{ loc[0].NEW_AD_WIDTH }}</div>
+                        <input id="adSizeWidth" maxlength="3" class="adSizeWidthInput" ng-model="adSizeWidthDefault" ng-change="adSizeWidthChange()">
+                        <div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+                    </div>
+                    <div class="inputContainer">
+                        <div class="topLabel">{{ loc[0].NEW_AD_HEIGHT }}</div>
+                        <input id="adSizeHeight" maxlength="3" class="adSizeHeightInput" ng-model="adSizeHeightDefault" ng-change="adSizeHeightChange()">
+                        <div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+                    </div>
+                    <div class="inputRowButtonContainer">
+                        <div id="addNewSize" class="newAdBtn add"></div>
+                    </div>
+                    <div class="inputContainer" ng-controller="AssetimagesCtrl">
+                        <div class="topLabel">{{ loc[0].NEW_AD_COMPANY }}</div>
+                        <select class="companySelectBox" ng-controller="CompaniesCtrl">
+                            <option value="n/a">{{ loc[0].NEW_AD_SELECT_COMPANY }}</option>
+                            <option ng-repeat="obj in companies" value="{{obj.value}}">{{obj.name}} ({{obj.value}})</option>
+                        </select>
+                    </div>
+                    <div class="inputContainer" ng-controller="AdnameCtrl">
+                        <div class="topLabel">{{ loc[0].NEW_AD_NAME }}</div>
+                        <input id="adName" maxlength="200" class="adNameInputField" ng-model="adNameDefault" ng-change="adNameChange()">
+                    </div>
+                    <div class="inputContainer" ng-controller="AdcolorCtrl">
+                        <div class="topLabel">{{ loc[0].NEW_AD_COLOR }}</div>
+                        <input id="adColor" class="adColorPicker" value="#FFFFFF"/>
+                        <!--
+                        <div class="adColorTypeBtn"></div>
+                        -->
+                    </div>
+                    <div class="inputContainer">
+                        <div class="topLabel">Drag</div>
+                        <input id="checkboxDrag" type="checkbox" style="margin-left:4px; margin-top:8px;" />
+                    </div>
+                    <div class="inputContainer" style="margin-left:25px;">
+                        <div class="iconTrash"></div>
+                    </div>	
+                </div>
+                <div class="subSectionBottomSpacer"></div> 
+        	</div>         
+        </div>
+        <div id="adAssets" class="newAdSideSection" ng-controller="GlobalimagesCtrl">
+            <div class="subHeader">
+                <div class="subHeaderCopy">{{ loc[0].NEW_AD_AD_ASSETS }}</div>
+            </div>
+            <div class="subSectionContent">
+                <div class="subSectionTopSpacer"></div>
+                <div class="assetContainer">
+                    <div class="newAdAsset text"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_TEXT }}</div>
+                </div>
+                <div class="assetContainer">
+                    <div class="newAdAsset button"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_BUTTON }}</div>
+                </div>  
+                <div class="assetContainer">
+                    <div class="newAdAsset image"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_IMAGE }}</div>
+                </div>
+                <div class="assetContainer">
+                    <div class="newAdAsset symbol"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_SYMBOL }}</div>
+                </div>
+                <div class="assetContainer">
+                    <div class="newAdAsset logoImage"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_LOGO }}</div>
+                </div>
+                <div class="assetContainer">
+                    <div class="newAdAsset video"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_VIDEO }}</div>
+                </div>   
+                <div class="assetContainer">
+                    <div class="newAdAsset gallery"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_GALLERY }}</div>
+                </div>
+                <div class="assetContainer">
+                    <div class="newAdAsset carouselImage"></div>
+                    <div class="bottomLabel">{{ loc[0].NEW_AD_ASSET_CAROUSEL }}</div>
+                </div>
+                <div class="subSectionBottomSpacer"></div>
+        	</div>                      
+        </div>
+        <div id="adAlignment" class="newAdSideSection" ng-controller="AdalignmentCtrl">
+            <div class="subHeader">
+                <div class="subHeaderCopy">{{ loc[0].NEW_AD_AD_ALIGNMENT }}</div>
+            </div>
+            <div class="subSectionContent">
+            	<div class="containerPadding">
+                    <div class="inputContainer">
+                        <div class="topLabel">Align</div>
+                        <input id="checkboxAlign" type="checkbox" style="margin-left:6px; margin-top:6px;" />
+                    </div>
+                    <div class="subSectionTopSpacer"></div>
+                	<div class="newAdBtnSpacer"></div>
+                    <div id="adAlignmentLeft" class="newAdBtn alignLeft"></div><div class="newAdBtnSpacer"></div>
+                    <div id="adAlignmentVertical" class="newAdBtn alignVertical"></div><div class="newAdBtnSpacer"></div>
+                    <div id="adAlignmentRight" class="newAdBtn alignRight"></div><div class="newAdBtnSpacer"></div><div class="newAdBtnSpacer"></div>
+                    <div id="adAlignmentTop" class="newAdBtn alignTop"></div><div class="newAdBtnSpacer"></div>
+                    <div id="adAlignmentHorizontal" class="newAdBtn alignHorizontal"></div><div class="newAdBtnSpacer"></div>
+                    <div id="adAlignmentBottom" class="newAdBtn alignBottom"></div><div class="newAdBtnSpacer"></div>
+                </div>
+            	<div class="subSectionTopSpacer"></div>
+                <div class="subSectionBottomSpacer"></div>
+            </div>                 
+        </div>
+        <div id="adLayers" class="newAdSideSection" ng-controller="AdlayersCtrl">
+            <div class="subHeader">
+                <div class="subHeaderCopy">{{ loc[0].NEW_AD_AD_LAYERS }}</div>
+            </div>
+            <div class="subSectionContent">
+            	<!-- All ad layer elements get added to this container. -->
+                <div id="adLayerDetailContainer" class="containerPadding"></div>
+                <div class="subSectionBottomSpacer"></div>
+            </div>                 
+        </div>
+        <!--  
+        <div id="adExport" class="newAdSideSection">
+            <div class="subHeader">
+                <div class="subHeaderCopy">{{ loc[0].NEW_AD_AD_EXPORT }}</div>
+            </div>
+            <div class="subSectionContent">
+            	<div class="subSectionTopSpacer"></div>
+                <div class="subSectionBottomSpacer"></div>
+            </div>                 
+        </div>
+        -->  
+    </div>
+    
+    <!-- RIGHT SIDE. -->
+    
+    <div class="adPaletteContainer" ng-controller="AdpalettecontainerCtrl">
+        <div class="topHorizontalRule"></div>
+        <div class="leftVerticalRule"></div>
+        
+        <div class="contextPalette" ng-controller="ContextpaletteCtrl">
+            <div class="tab tabActive">{{ loc[0].NEW_AD_TAB_ELEMENT }}</div>
+            <div class="tab">{{ loc[0].NEW_AD_TAB_EFFECTS }}</div>
+            <div class="tab">{{ loc[0].NEW_AD_TAB_ANIMATION }}</div>
+            <div class="bottom">
+                <div id="assetEditElement" class="bottomContent">
+                	<!-- All edit element partial view files get loaded into this container. -->
+                	<div id="editContent" ng-model="elementViewTemplates" ng-include="elementViewTemplate"></div>
+                    <div class="closeButtonContainer">
+                        <div class="closeBtn"></div>
+                    </div>
+                </div>
+                <div id="assetEditEffects" class="bottomContent" ng-controller="ContexteffectsCtrl" style="color:#CCCCCC;">
+                    EFFECTS...
+                    <div class="closeButtonContainer">
+                        <div class="closeBtn"></div>
+                    </div>  
+                </div>
+                <div id="assetEditAnimation" class="bottomContent" ng-controller="ContextanimationCtrl" style="color:#CCCCCC;">
+                    ANIMATION...
+                    <div class="closeButtonContainer">
+                        <div class="closeBtn"></div>
+                    </div>  
+                </div>               
+            </div>
+            <div class="dragPad"></div> 
+        </div>
+        
+        <!-- Ad. -->
+        <div class="newAdElementContainer">
+            <div class="newAdElement"></div>
+        </div>  
+    </div>
+</div>

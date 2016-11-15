@@ -1,0 +1,78 @@
+<div id="editText" ng-controller="EdittextCtrl">   
+    <div class="inputContainer">
+        <div class="sizeLink" style="float:left; margin-top:25px;"></div>
+        <div style="float:right;">
+            <div class="topLabel">{{ loc[0].NEW_AD_WIDTH }}</div>
+            <input id="textAssetWidth" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+            <div class="topLabel">{{ loc[0].NEW_AD_HEIGHT }}</div>
+            <input id="textAssetHeight" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+        </div>
+    </div>
+    <div class="inputContainer">
+        <div class="topLabel">{{ loc[0].NEW_AD_X }}</div>
+        <input id="textAssetX" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+    </div>
+    <div class="inputContainer">
+        <div class="topLabel">{{ loc[0].NEW_AD_FONT }}</div>
+        <select id="textAssetFont" class="fontSelectBox" ng-controller="FontsCtrl">
+            <option ng-repeat="obj in fonts" value="{{obj.value}}">{{obj.name}}</option>
+        </select>
+    </div>
+    <div class="inputContainer">
+        <div class="topLabel">{{ loc[0].NEW_AD_ALIGN }}</div>
+        <select id="textAssetAlignment" class="alignmentSelectBox" ng-controller="AlignmentCtrl">
+            <option ng-repeat="obj in alignments" value="{{obj.value}}">{{obj.name}}</option>
+        </select>
+    </div>
+    <div class="inputContainer">    
+        <div class="topLabel">{{ loc[0].NEW_AD_Y }}</div>
+        <input id="textAssetY" maxlength="3" class="adAssetSmallInput"><div class="inputFieldRightSideLabel">{{ loc[0].NEW_AD_PX }}</div>
+    </div>
+    <div class="inputContainer extraRightMargin">    
+        <div class="topLabel">{{ loc[0].NEW_AD_SIZE }}</div>
+        <input id="textAssetSize" maxlength="3" class="adAssetSmallInput" ng-model="textAssetSizeDefault">
+    </div>
+    <div class="inputContainer extraRightMargin">    
+        <div class="topLabel">{{ loc[0].NEW_AD_LAYER }}</div>
+        <input id="textAssetLayer" maxlength="3" class="adAssetSmallInput" ng-model="textAssetLayerDefault">
+    </div>
+    <div class="inputContainer extraRightMargin">    
+        <div class="topIcon letterSpacing"></div>
+        <input id="textAssetLetterSpacing" maxlength="4" class="adAssetSmallInput" ng-model="textAssetLetterSpacingDefault">
+    </div>
+    <div class="inputContainer extraRightMargin">    
+        <div class="topIcon lineHeight"></div>
+        <input id="textAssetLineHeight" maxlength="4" class="adAssetSmallInput" ng-model="textAssetLineHeightDefault">
+    </div>
+    <div class="inputContainer">    
+        <div class="topIcon indent"></div>
+        <input id="textAssetIndent" maxlength="4" class="adAssetSmallInput" ng-model="textAssetIndentDefault">
+    </div>
+    <div class="inputContainer" ng-controller="ColorCtrl">
+        <div class="topLabel">{{ loc[0].NEW_AD_COLOR }}</div>
+        <input id="textAssetColor" class="colorPicker" value="#FFFFFF" />
+    </div>
+    <div class="inputContainer marginLeft15" ng-controller="MovecontrolCtrl">
+        <div class="inputContainer">    
+            <div class="topLabel">{{ loc[0].NEW_AD_TEXT }}</div>
+            <textarea id="textAssetText" class="adAssetTextArea" ng-model="textAssetTextDefault" ng-change="textAssetChange()"></textarea>
+        </div>
+        <div class="inputContainer">    
+            <div class="topLabel">{{ loc[0].NEW_AD_URL }}</div>
+            <textarea id="textAssetURL" class="adAssetTextArea" ng-model="textAssetURLDefault" ng-change="textAssetChange()"></textarea>
+        </div>
+        <!--
+        <div class="inputContainer">
+            <div class="topLabel">{{ loc[0].NEW_AD_ASSIGNMENT }}</div>
+            <select class="assignmentSelectBox" ng-controller="AssignmentCtrl" style="width:250px;">
+                <option ng-repeat="obj in assignments" value="{{obj.value}}">{{obj.name}}</option>
+            </select>
+        </div>
+        -->
+        <div class="iconTrash"></div>
+        <div class="editRndBtn moveUp"></div>
+        <div class="editRndBtn moveRight"></div>
+        <div class="editRndBtn moveDown"></div>
+        <div class="editRndBtn moveLeft"></div>  
+    </div>
+</div>
